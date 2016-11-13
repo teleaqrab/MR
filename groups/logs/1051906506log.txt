@@ -1,0 +1,24 @@
+[ Sun May  8 13:10:18 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Sun May  8 13:10:18 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Sun May  8 13:12:31 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Sun May  8 13:12:31 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Sun May  8 13:16:11 2016 ]=>  بابایی [150818362] used /get id
+ 
+[ Sun May  8 13:16:11 2016 ]=>  بابایی [150818362] requested SuperGroup ID
+ 
+[ Sun May  8 13:16:20 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Sun May  8 13:19:30 2016 ]=>  بابایی [150818362] used /get redact Kayot
+ 
+[ Sun May  8 13:21:29 2016 ]=>  بابایی [150818362] used /get kick
+ 
+[ Sun May  8 13:21:29 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Sun May  8 13:38:14 2016 ]=>  MĒH‌ڪٵیۊٺRĀĐ [219682056] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 11:51:07 2016 ]=>  MĒH‌ڪٵیۊٺRĀĐ [219682056] used /get !tgservice chat_del_user
+ 

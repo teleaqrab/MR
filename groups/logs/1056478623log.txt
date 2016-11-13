@@ -1,0 +1,132 @@
+[ Mon May  9 10:41:18 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Mon May  9 10:41:18 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Mon May  9 10:41:21 2016 ]=>  بابایی [150818362] used /get plugins
+ 
+[ Mon May  9 10:41:35 2016 ]=>  بابایی [150818362] used /get plugins + danbooru
+ 
+[ Mon May  9 10:42:20 2016 ]=>  بابایی [150818362] used /get creategroup a
+ 
+[ Mon May  9 10:50:31 2016 ]=>  بابایی [150818362] used /get plugins
+ 
+[ Mon May  9 10:50:44 2016 ]=>  بابایی [150818362] used /get plugins + activeuser
+ 
+[ Tue May 10 09:06:56 2016 ]=>  بابایی [150818362] used /get nerkh
+ 
+[ Tue May 10 09:48:23 2016 ]=>  بابایی [150818362] used /get music iran
+ 
+[ Tue May 10 09:49:52 2016 ]=>  بابایی [150818362] used /get plugins
+ 
+[ Tue May 10 09:50:13 2016 ]=>  بابایی [150818362] used /get music wwe
+ 
+[ Tue May 10 10:50:44 2016 ]=>  بابایی [150818362] used /get broadcast برای درخواست استفاده از ربات درگروه های خود به
+https://telegram.me/ThisIsAbolfazl
+و یا
+https://telegram.me/ThisIsAbolfazlbot
+پیام دهید
+ 
+[ Tue May 10 10:56:12 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Tue May 10 10:56:12 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Tue May 10 14:41:40 2016 ]=>  بابایی Admin [219964295] added to the SuperGroup by [ 150818362 ]
+ 
+[ Tue May 10 14:41:40 2016 ]=>  بابایی [150818362] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:41:43 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Tue May 10 14:41:47 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Tue May 10 14:41:47 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Tue May 10 14:42:57 2016 ]=>  بابایی [150818362] used /get redact BOOM
+ 
+[ Tue May 10 14:43:15 2016 ]=>  بابایی [150818362] used /get write BOOM
+ 
+[ Tue May 10 14:43:34 2016 ]=>  بابایی [150818362] used /get arz
+ 
+[ Tue May 10 14:44:22 2016 ]=>  بابایی [150818362] used /get help member
+ 
+[ Tue May 10 14:44:26 2016 ]=>  بابایی [150818362] used /get nerkh
+ 
+[ Tue May 10 14:45:22 2016 ]=>  بابایی [150818362] used /get nerkh
+ 
+[ Tue May 10 14:45:49 2016 ]=>  بابایی [150818362] used /get tr مادر قهوه
+ 
+[ Tue May 10 14:46:00 2016 ]=>  بابایی [150818362] used /get tr کیر خر
+ 
+[ Tue May 10 14:46:51 2016 ]=>  بابایی [150818362] used /get help member
+ 
+[ Tue May 10 14:46:58 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Tue May 10 14:47:10 2016 ]=>  بابایی [150818362] used /get rem
+ 
+[ Tue May 10 14:47:12 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Tue May 10 14:47:12 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Tue May 10 14:47:16 2016 ]=>  بابایی [150818362] used /get help
+ 
+[ Tue May 10 14:47:22 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Tue May 10 14:48:15 2016 ]=>  بابایی [150818362] used /get help member
+ 
+[ Tue May 10 14:48:28 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Tue May 10 14:49:08 2016 ]=>  بابایی [150818362] used /get help mod
+ 
+[ Tue May 10 14:50:18 2016 ]=>  بابایی [150818362] used /get sticker koni red tahoma
+ 
+[ Tue May 10 16:02:39 2016 ]=>  بابایی [150818362] used /get help
+ 
+[ Tue May 10 16:09:54 2016 ]=>  بابایی [150818362] used /get broadcast🔺ادمینی 2 بات سالماندور ورژن 1 و ورژن 2ماهیانه مبلغ 15هزارتومن🔺
+🔺سودو ماهی 25🔺
+برای سفارش به 
+@ThisIsAbolfazl
+🔺واگر ریپورتید به🔺
+@ThisIsAbolfazlbot
+🔺پیام دهید🔺
+ 
+[ Tue May 10 16:10:20 2016 ]=>  بابایی [150818362] used /get broadcast 🔺ادمینی 2 بات سالماندور ورژن 1 و ورژن 2ماهیانه مبلغ 15هزارتومن🔺
+🔺سودو ماهی 25🔺
+برای سفارش به 
+@ThisIsAbolfazl
+🔺واگر ریپورتید به🔺
+@ThisIsAbolfazlbot
+🔺پیام دهید🔺
+ 
+[ Wed May 11 06:02:57 2016 ]=>  بابایی [150818362] used /get plugins - welcome
+ 
+[ Wed May 11 06:12:50 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Wed May 11 06:32:45 2016 ]=>  بابایی [150818362] used /get setabout sdsd
+ 
+[ Wed May 11 06:32:45 2016 ]=>  بابایی [150818362] set SuperGroup description to: sdsd
+ 
+[ Wed May 11 06:33:22 2016 ]=>  بابایی [150818362] used /get setabout sdsd
+ 
+[ Wed May 11 06:33:22 2016 ]=>  بابایی [150818362] set SuperGroup description to: sdsd
+ 
+[ Wed May 11 06:47:00 2016 ]=>  بابایی [150818362] used /get filter کونی
+ 
+[ Wed May 11 06:59:09 2016 ]=>  بابایی [150818362] used /get id
+ 
+[ Wed May 11 06:59:09 2016 ]=>  بابایی [150818362] requested SuperGroup ID
+ 
+[ Wed May 11 07:04:53 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Wed May 11 07:04:53 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Thu May 12 02:26:26 2016 ]=>  بابایی [150818362] used /get write SolmonDor
+ 
+[ Thu May 12 02:41:25 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Thu May 12 02:41:25 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Thu May 12 02:42:49 2016 ]=>  بابایی [150818362] used /get stats solmondor
+ 
+[ Thu May 12 04:03:47 2016 ]=>  بابایی [150818362] used /get broadcast کانال سالماندور اخرین اخبار و اطلاعات از اپدیت ها و دستورات سالماندور حتما جوین دهید
+
+https://telegram.me/SupSolMonDor
+ 

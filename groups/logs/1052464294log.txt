@@ -1,0 +1,248 @@
+[ Tue May 10 14:01:42 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Tue May 10 14:01:42 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Tue May 10 14:01:50 2016 ]=>  بابایی [150818362] used /get setowner @heh_men_bad_man_bad
+ 
+[ Tue May 10 14:01:50 2016 ]=>  بابایی[150818362] set [228585564] as owner by username
+ 
+[ Tue May 10 14:05:00 2016 ]=>  بابایی [150818362] used /get setlink
+ 
+[ Tue May 10 14:09:06 2016 ]=>  عمویی#1 [228585564] used /get link
+ 
+[ Tue May 10 14:09:06 2016 ]=>  عمویی#1 [228585564] requested group link [https://telegram.me/joinchat/DZ_wXD67VKa1Dszf3oQwJA]
+ 
+[ Tue May 10 14:10:37 2016 ]=>  بابایی [150818362] used /get !tgservice chat_del_user
+ 
+[ Tue May 10 14:31:01 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:31:07 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:31:33 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:32:02 2016 ]=>  عمویی#1 [228585564] used /get info
+ 
+[ Tue May 10 14:35:03 2016 ]=>  💧💊♒M🚬i🚬ss🚬__y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:35:12 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:35:14 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:35:21 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:35:28 2016 ]=>  💧💊♒M🚬i🚬ss🚬__y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:36:14 2016 ]=>  عمویی#1 [228585564] used /get link
+ 
+[ Tue May 10 14:36:14 2016 ]=>  عمویی#1 [228585564] requested group link [https://telegram.me/joinchat/DZ_wXD67VKa1Dszf3oQwJA]
+ 
+[ Tue May 10 14:37:34 2016 ]=>  🚬🎧нɪss🚩αsαʙ_ηɪss🔌 [162831559] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:43:17 2016 ]=>  عمویی#1 [228585564] used /get unbanall @OooO_SAMAN_H_N_007_OooO
+ 
+[ Tue May 10 14:43:38 2016 ]=>  عمویی#1 [228585564] used /get help
+ 
+[ Tue May 10 14:46:38 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get me
+ 
+[ Tue May 10 14:56:10 2016 ]=>  👉melina👈 [178271089] used /get !tgservice chat_del_user
+ 
+[ Tue May 10 23:02:58 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 23:03:23 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 23:03:55 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 23:07:23 2016 ]=>  عمویی#1 [228585564] renamed SuperGroup to: 😍£ⓢみｇみ👑ρﾑⓚ😍
+ 
+[ Tue May 10 23:07:23 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_rename
+ 
+[ Tue May 10 23:26:31 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_change_photo
+ 
+[ Tue May 10 23:26:36 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_delete_photo
+ 
+[ Tue May 10 23:27:12 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 23:40:10 2016 ]=>  عمویی#1 [228585564] renamed SuperGroup to: 👑عــــــــــــــــــــشــــــــــــــقـ😍پــــــــــــــاک👑
+ 
+[ Tue May 10 23:40:10 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_rename
+ 
+[ Tue May 10 23:40:33 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_change_photo
+ 
+[ Tue May 10 23:42:52 2016 ]=>  عمویی#1 [228585564] requested group link [https://telegram.me/joinchat/DZ_wXD67VKa1Dszf3oQwJA]
+ 
+[ Tue May 10 23:42:52 2016 ]=>  عمویی#1 [228585564] used /get link
+ 
+[ Wed May 11 03:35:28 2016 ]=>  عمویی#1 [228585564] used /get mypic
+ 
+[ Wed May 11 03:36:12 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 03:38:08 2016 ]=>  عمویی#1 [228585564] used /get del
+ 
+[ Wed May 11 03:38:08 2016 ]=>  عمویی#1 [228585564] deleted a message by reply
+ 
+[ Wed May 11 03:38:37 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 03:59:16 2016 ]=>  💧💊♒M🚬i🚬ss🚬__y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] used /get mypic
+ 
+[ Wed May 11 04:30:25 2016 ]=>  💧💊♒M🚬i🚬ss🚬__y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 04:30:25 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 04:31:47 2016 ]=>  عمویی#1 [228585564] used /get unbanall @xXMiss_yegiXx
+ 
+[ Wed May 11 04:31:59 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Wed May 11 06:56:20 2016 ]=>  عمویی [228585564] used /get unlock fosh
+ 
+[ Wed May 11 06:56:20 2016 ]=>  عمویی [228585564] unlocked fosh
+ 
+[ Wed May 11 07:13:12 2016 ]=>  عمویی#1 [228585564] used /get voice salam
+ 
+[ Wed May 11 07:13:42 2016 ]=>  عمویی#1 [228585564] used /get voice hiiiiis
+ 
+[ Wed May 11 07:14:41 2016 ]=>  عمویی#1 [228585564] used /get voice hiiiiiiiiiiis
+ 
+[ Wed May 11 07:15:06 2016 ]=>  عمویی#1 [228585564] used /get id
+ 
+[ Wed May 11 07:15:06 2016 ]=>  عمویی#1 [228585564] obtained id for: [236486578]
+ 
+[ Wed May 11 07:16:11 2016 ]=>  عمویی#1 [228585564] used /get lock chat
+ 
+[ Wed May 11 07:29:31 2016 ]=>  عمویی#1 [228585564] used /get voice fati
+ 
+[ Wed May 11 07:30:22 2016 ]=>  عمویی#1 [228585564] used /get voice bay
+ 
+[ Wed May 11 07:30:36 2016 ]=>  عمویی#1 [228585564] used /get voice by
+ 
+[ Wed May 11 07:31:16 2016 ]=>  عمویی#1 [228585564] used /get voice mahyakojas
+ 
+[ Wed May 11 07:31:50 2016 ]=>  عمویی#1 [228585564] used /get voice fatisistealisinner
+ 
+[ Wed May 11 07:34:05 2016 ]=>  عمویی#1 [228585564] used /get voice fati sister alisinner
+ 
+[ Wed May 11 07:34:31 2016 ]=>  عمویی#1 [228585564] used /get voice fati khahar alisinner
+ 
+[ Wed May 11 07:44:35 2016 ]=>  عمویی [228585564] used /get redact علی
+ 
+[ Wed May 11 07:48:11 2016 ]=>  عمویی#1 [228585564] used /get redact فاطی
+ 
+[ Wed May 11 08:54:12 2016 ]=>  ℳ¤みოⓜﾑ∂ [131581341] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 08:54:12 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 08:59:03 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 09:16:03 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get help
+ 
+[ Wed May 11 09:16:17 2016 ]=>  💧💊♒M🚬i🚬ss🚬y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] banned user is talking !
+ 
+[ Wed May 11 09:17:01 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get unbanall @xXMiss_yegiXx
+ 
+[ Wed May 11 09:43:11 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 09:52:25 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 09:54:38 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Wed May 11 09:55:08 2016 ]=>  عمویی#1 [228585564] used /get unbanall @xXMiss_yegiXx
+ 
+[ Wed May 11 09:55:28 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get mypic
+ 
+[ Wed May 11 09:55:49 2016 ]=>  🔥ßlack_wi🔥zard🔥🔥👽ًًٍw【➺Black_Wizard↫ًٍ】ًٍ🔱ѦzًٍÅًٍღًَ]🔪💥r3D_stär💥💉🔫💀👽💀₩ЇzÅℜÐ🔥👽ШЇzДЯD🔥👽(w)(i)(z)(a)(r)(d)🔥👽draziw🔥👽ⓦⓘⓩⓐⓡⓓ🔥👽『w』『i』『z』『a』『r』『d』💀👽بـــلـــwizardکـــ🔥kheili_tol_dare_badkhaha_b_mn_beresan_chon_nemire_mo_la_darze_karam💀👽🔥────────────────_🔥🔥🔥🔥🔥──────────────────_─██████──████████─_─██──██──██────██─_─██──██──██──████─_─██──██──██──██───_─██──██████──██───_─██──────────██───_─██──██████──██───_─██──██──██──██───_─██──██──██──████─_─██──██──██────██─_─██████──████████─_──────────────────_─── [108964323] used /get mypic
+ 
+[ Wed May 11 09:56:17 2016 ]=>  ௸✃مُحَنّاییْـ_بُریدِهْـ_اَزْ_هَمِهْـ✁௸دُورِتْ_پُرِهْ!_مَنُوْ_میْخوایْ_چیْکارْ...؟!_یعنے_میشہ_؟!↯همین_الآن_یهویے↻✘خدا_بیاد_بگه:_پاشو_بریم↸دیگـــــہ_نمیتونم_ناراحتیتو_ببینم_...?😔😔😪 [173197325] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 09:57:10 2016 ]=>  💧💊♒M🚬i🚬ss🚬y🚬e🚬g🚬i🚬💧♒💊🚶 [215312858] banned user is talking !
+ 
+[ Wed May 11 09:57:10 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 09:58:12 2016 ]=>  عمویی#1 [228585564] used /get unbanall @xXMiss_yegiXx
+ 
+[ Wed May 11 09:58:21 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Wed May 11 09:59:06 2016 ]=>  عمویی#1 [228585564] used /get unban @xXMiss_yegiXx
+ 
+[ Wed May 11 10:04:54 2016 ]=>  عمویی [228585564] used /get tosticker
+ 
+[ Wed May 11 10:06:18 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get mypic
+ 
+[ Wed May 11 10:08:58 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:10:49 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:10:58 2016 ]=>  عمویی#1 [228585564] requested SuperGroup ID
+ 
+[ Wed May 11 10:10:58 2016 ]=>  عمویی#1 [228585564] used /get id
+ 
+[ Wed May 11 10:11:04 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:14 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:14 2016 ]=>  عمویی [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:37 2016 ]=>  عمویی [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:37 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:52 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:11:52 2016 ]=>  عمویی [228585564] used /get tosticker
+ 
+[ Wed May 11 10:34:13 2016 ]=>  عمویی#1 [228585564] used /get tosticker
+ 
+[ Wed May 11 10:34:13 2016 ]=>  عمویی [228585564] used /get tosticker
+ 
+[ Wed May 11 11:39:22 2016 ]=>  عمویی#1 [228585564] used /get redact زهرا
+ 
+[ Wed May 11 11:42:11 2016 ]=>  عمویی [228585564] used /get redact محیا
+ 
+[ Wed May 11 11:42:50 2016 ]=>  عمویی [228585564] used /get redact mahya
+ 
+[ Wed May 11 11:43:33 2016 ]=>  √™[{みﾑŁ£み}]√™😍 [211974043] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 11:43:34 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 12:07:59 2016 ]=>  🚬🎧нɪss🚩αsαʙηɪss🔌 [162831559] added a banned user >131581341
+ 
+[ Wed May 11 12:08:18 2016 ]=>  عمویی#1 [228585564] used /get unban @xxxmamad_TK_Par_Bezan_BechakxxX
+ 
+[ Wed May 11 14:02:20 2016 ]=>  🎵Я£乙ﾑρɨrﾑ🎧 [183741853] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 14:03:11 2016 ]=>  عمویی#1 [228585564] used /get !tgservice chat_add_user
+ 
+[ Wed May 11 14:11:32 2016 ]=>  عمویی#1 [228585564] used /get voice slm
+ 
+[ Wed May 11 14:22:06 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get mypic
+ 
+[ Wed May 11 14:30:12 2016 ]=>  Mıss_яєԀԀ [225918441] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 14:30:13 2016 ]=>  {SolMonDor}{V2) [0] used /get !tgservice chat_del_user
+ 
+[ Wed May 11 16:01:56 2016 ]=>  💧💊♒M🚬i🚬ss🚬__m🚬a🚬h🚬y🚬a💧♒💊🚶 [215312858] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 01:38:23 2016 ]=>  عمویی [228585564] used /get unban @MOoo_hix
+ 
+[ Thu May 12 04:49:00 2016 ]=>  ¤¤_™_««💕_§_&_/\/\_💕»»_™_¤¤ [214308525] used /get mypic
+ 
+[ Thu May 12 06:04:34 2016 ]=>  ℳ¤みოⓜﾑ∂ [131581341] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 06:06:07 2016 ]=>  عمویی [228585564] used /get lock chat
+ 
+[ Thu May 12 11:24:26 2016 ]=>  _£^^_^_{{_09114453537_}} [214308525] used /get mypic
+ 
+[ Thu May 12 11:28:28 2016 ]=>  _£^^_^_{{_09114453537_}} [214308525] used /get mypic
+ 
+[ Thu May 12 11:34:31 2016 ]=>  _£^^_^_{{_09114453537_}} [214308525] used /get mypic
+ 
+[ Thu May 12 11:34:59 2016 ]=>  عمویی [228585564] used /get id
+ 
+[ Thu May 12 11:34:59 2016 ]=>  عمویی [228585564] requested SuperGroup ID
+ 
+[ Thu May 12 11:47:50 2016 ]=>  _£^^_^_{{_09114453537_}} [214308525] used /get mypic
+ 
+[ Thu May 12 11:50:00 2016 ]=>  عمویی [228585564] used /get mypic
+ 
+[ Thu May 12 12:52:01 2016 ]=>  _£^^_^ [214308525] used /get mypic
+ 
+[ Thu May 12 13:12:20 2016 ]=>  عمویی [228585564] used /get add
+ 

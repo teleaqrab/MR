@@ -1,0 +1,72 @@
+[ Tue May 10 12:56:18 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 12:56:24 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] added SuperGroup
+ 
+[ Tue May 10 12:56:24 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get add
+ 
+[ Tue May 10 12:59:09 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get set owner
+ 
+[ Tue May 10 12:59:24 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get setowner
+ 
+[ Tue May 10 12:59:24 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] set: [145425932] as owner by reply
+ 
+[ Tue May 10 13:07:11 2016 ]=>  منو_عشقم [130188587] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 13:09:33 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get lock links
+ 
+[ Tue May 10 13:09:33 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] locked link posting 
+ 
+[ Tue May 10 13:14:01 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get help
+ 
+[ Tue May 10 13:14:44 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get list realms
+ 
+[ Tue May 10 13:15:27 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] locked spam 
+ 
+[ Tue May 10 13:15:27 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get lock spam
+ 
+[ Tue May 10 13:51:53 2016 ]=>  ♠☞✯eloηε✯☜♣ [197074729] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:00:46 2016 ]=>  Bita [163778278] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 14:06:54 2016 ]=>  رهگذرتنها_بخداخسته_ام_دیگه [140847155] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:10:47 2016 ]=>  🎧ĸîæį🎤 [207338840] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:27:50 2016 ]=>  دنیای_عاشق_کش [232421517] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:30:44 2016 ]=>  S_r_😍 [147913832] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:41:39 2016 ]=>  Milad♥ [185576567] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 14:46:27 2016 ]=>  نـــــــــــــــسریـــــــــــــــــــن [214260129] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 10 14:46:40 2016 ]=>  نـــــــــــــــسریـــــــــــــــــــن [214260129] kicked for #spam
+ 
+[ Tue May 10 15:03:55 2016 ]=>  محمد_جووووون [108306290] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 15:10:15 2016 ]=>  mamad_hossein [206443605] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 15:56:42 2016 ]=>  🔯💔ⓟ_¥∆ʍ💔🐾 [215826839] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 16:01:28 2016 ]=>  Hamid_Habibi [164323900] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 16:10:07 2016 ]=>  Hamid_Habibi [164323900] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 17:04:57 2016 ]=>  💀Geladiator💪😈_👿🚬🔞 [145425932] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 17:06:27 2016 ]=>  💀Geladiator💪😈_👿🚬🔞 [145425932] used /get !tgservice chat_del_user
+ 
+[ Tue May 10 17:48:31 2016 ]=>  mehdi_m [179303810] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 20:01:04 2016 ]=>  احمد_..... [118249960] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 23:10:04 2016 ]=>  حسنیم [130566535] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 23:53:44 2016 ]=>  تنهای_تنها؟ [130004810] used /get !tgservice chat_add_user_link
+ 
+[ Tue May 10 23:59:35 2016 ]=>  Asal._. [142854420] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 01:10:37 2016 ]=>  Nilo [133431813] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 01:58:53 2016 ]=>  رضا [112285245] used /get !tgservice chat_add_user_link
+ 

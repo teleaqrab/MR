@@ -1,0 +1,40 @@
+[ Sun May  1 18:11:07 2016 ]=>  عمو علی [212586772] added SuperGroup
+ 
+[ Sun May  1 18:11:16 2016 ]=>  عمو علی [212586772] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 18:11:20 2016 ]=>  عمو علی [212586772] requested group link [https://telegram.me/joinchat/DRxjhz7aDTtKw-5DmQl5tg]
+ 
+[ Sun May  1 19:17:47 2016 ]=>  عمو علی [212586772] set: [141627014] as owner by reply
+ 
+[ Sun May  1 19:17:53 2016 ]=>  عمو_علی [212586772] Used /superhelp
+ 
+[ Sun May  1 23:31:30 2016 ]=>  MR hideR👑 [141627014] requested SuperGroup settings 
+ 
+[ Sun May  1 23:32:42 2016 ]=>  MR hideR👑 [141627014] used /owner
+ 
+[ Sun May  1 23:44:10 2016 ]=>  MR hideR👑 [141627014] promoted @{amirNG1122}
+ 
+[ Sun May  1 23:44:53 2016 ]=>  MR hideR👑 [141627014] promoted @{AmirNG1122}
+ 
+[ Sun May  1 23:47:11 2016 ]=>  MR hideR👑 [141627014] promoted mod: @@AmirNG1122[102462288] by reply
+ 
+[ Sun May  1 23:48:06 2016 ]=>  MR hideR👑 [141627014] requested SuperGroup Admins list
+ 
+[ Sun May  1 23:48:22 2016 ]=>  MR hideR👑 [141627014] set: [102462288] as owner by reply
+ 
+[ Sun May  1 23:49:01 2016 ]=>  Amir#1 [102462288] requested SuperGroup Admins list
+ 
+[ Sun May  1 23:49:18 2016 ]=>  Amir#1 [102462288] set: [141627014] as owner by reply
+ 
+[ Sun May  1 23:49:48 2016 ]=>  MR hideR👑 [141627014] promoted mod: @@AmirNG1122[102462288] by reply
+ 
+[ Sun May  1 23:50:23 2016 ]=>  MR hideR👑 [141627014] renamed SuperGroup to: 👻
+ 
+[ Mon May  2 00:01:25 2016 ]=>  MR hideR👑 [141627014] renamed SuperGroup to: 👻
+ 
+[ Mon May  2 01:33:35 2016 ]=>  MR hideR👑 [141627014] requested group link [https://telegram.me/joinchat/DRxjhz7aDTtKw-5DmQl5tg]
+ 
+[ Mon May  2 02:01:30 2016 ]=>  MR hideR👑 [141627014] requested group link [https://telegram.me/joinchat/DRxjhz7aDTtKw-5DmQl5tg]
+ 
+[ Wed May  4 16:36:41 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] left via kickme
+ 

@@ -1,0 +1,1316 @@
+[ Wed May 11 15:02:02 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get !tgservice chat_add_user
+ 
+[ Wed May 11 15:02:09 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get add
+ 
+[ Wed May 11 15:02:09 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] added SuperGroup
+ 
+[ Wed May 11 15:02:53 2016 ]=>  AZADHE [148532306] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:03:52 2016 ]=>  محمود [130911800] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:04:14 2016 ]=>  یاسی [128306512] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:04:49 2016 ]=>  یاسی [128306512] used /get start@SpamBot
+ 
+[ Wed May 11 15:04:56 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get setowner
+ 
+[ Wed May 11 15:04:56 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] set: [192332723] as owner by reply
+ 
+[ Wed May 11 15:07:31 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 15:07:31 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 15:08:14 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get promote
+ 
+[ Wed May 11 15:09:32 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get promote
+ 
+[ Wed May 11 15:09:46 2016 ]=>  ‌☆N☆‌_♡نًْــفًـْـــــًْــــًـْسْ‌♡ [192332723] used /get promote
+ 
+[ Wed May 11 15:09:46 2016 ]=>  ‌☆N☆‌ ♡نًْــفًـْـــــًْــــًـْسْ‌♡ [192332723] promoted mod: @@Ssssssddddgg[211992638] by reply
+ 
+[ Wed May 11 15:10:06 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] locked link posting 
+ 
+[ Wed May 11 15:10:06 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get lock links
+ 
+[ Wed May 11 15:10:18 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] set flood to [10]
+ 
+[ Wed May 11 15:10:18 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get setflood 10
+ 
+[ Wed May 11 15:10:35 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get lock photo
+ 
+[ Wed May 11 15:10:47 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup settings 
+ 
+[ Wed May 11 15:10:47 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get settings
+ 
+[ Wed May 11 15:15:08 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Wed May 11 15:15:18 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 15:15:18 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 15:15:25 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Wed May 11 15:15:33 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get help
+ 
+[ Wed May 11 15:15:33 2016 ]=>  Reza M [212836060] used /owner
+ 
+[ Wed May 11 15:15:33 2016 ]=>  Reza_M [212836060] used /get owner
+ 
+[ Wed May 11 15:16:02 2016 ]=>  Reza_M [212836060] used /get link
+ 
+[ Wed May 11 15:16:07 2016 ]=>  Reza_M [212836060] used /get link
+ 
+[ Wed May 11 15:16:52 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get me
+ 
+[ Wed May 11 15:17:03 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get me
+ 
+[ Wed May 11 15:17:09 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get info
+ 
+[ Wed May 11 15:17:54 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute
+ 
+[ Wed May 11 15:18:07 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Wed May 11 15:18:22 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get kick
+ 
+[ Wed May 11 15:18:35 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Wed May 11 15:18:45 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get info
+ 
+[ Wed May 11 15:19:02 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get lock photo
+ 
+[ Wed May 11 15:19:21 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get help
+ 
+[ Wed May 11 15:19:28 2016 ]=>  نـــفـــســـــمــ(.......)بـهـــ نـــفـسـتـ بـســـتـسـ [131641941] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 11 15:20:20 2016 ]=>  ௵௸ஐ ❤️ ツ [91839320] requested SuperGroup ID
+ 
+[ Wed May 11 15:20:20 2016 ]=>  ௵௸ஐ_❤️_ツ [91839320] used /get id
+ 
+[ Wed May 11 15:20:31 2016 ]=>  ایران___17 [207543388] used /get start@SpamBot
+ 
+[ Wed May 11 15:20:59 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get ummute all
+ 
+[ Wed May 11 15:21:26 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] set SuperGroup to: mute All
+ 
+[ Wed May 11 15:21:26 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get mute all
+ 
+[ Wed May 11 15:22:37 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] set SuperGroup to: unmute All
+ 
+[ Wed May 11 15:22:37 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Wed May 11 15:26:40 2016 ]=>  💑ʍınﾑ💑 [205430939] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:28:08 2016 ]=>  ♡HOSEIN♡☆پیس_اوشاخ☆ [196233359] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:30:09 2016 ]=>  S_د_A_ا_J_ج_A_س_D [145732367] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:30:21 2016 ]=>  MOHAMMAD [156614564] used /get start@SpamBot
+ 
+[ Wed May 11 15:30:22 2016 ]=>  MOHAMMAD [156614564] used /get start@SpamBot
+ 
+[ Wed May 11 15:30:23 2016 ]=>  MOHAMMAD [156614564] used /get start@SpamBot
+ 
+[ Wed May 11 15:30:23 2016 ]=>  MOHAMMAD [156614564] used /get start@SpamBot
+ 
+[ Wed May 11 15:30:23 2016 ]=>  MOHAMMAD [156614564] used /get start@SpamBot
+ 
+[ Wed May 11 15:30:41 2016 ]=>  سعید [137204469] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:32:22 2016 ]=>  milad#1 [193307051] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:33:51 2016 ]=>  م [111397100] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:35:01 2016 ]=>  جمیز.وات_جمیز.وات [149233983] used /get سلام
+ 
+[ Wed May 11 15:35:31 2016 ]=>  سعید [137204469] kicked for #spam
+ 
+[ Wed May 11 15:35:46 2016 ]=>  جمیز.وات_جمیز.وات [149233983] used /get خوبی
+ 
+[ Wed May 11 15:38:41 2016 ]=>  پژمان_55483 [103295023] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:38:59 2016 ]=>  ..R__♥♡|.. [119062122] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:39:05 2016 ]=>  V:M [112233405] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:39:58 2016 ]=>  Armin2 [213372188] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:40:25 2016 ]=>  Armin2 [213372188] used /get start@SpamBot
+ 
+[ Wed May 11 15:40:34 2016 ]=>  پژمان_55483 [103295023] used /get start@SpamBot
+ 
+[ Wed May 11 15:40:35 2016 ]=>  پژمان_55483 [103295023] used /get start@SpamBot
+ 
+[ Wed May 11 15:40:47 2016 ]=>  🎉no🐰๔๏ķђį๔๏ķђį🐰pv🎉 [169403337] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:42:02 2016 ]=>  🇲___🇪_🇭_🇩_🇮 [139797299] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:42:24 2016 ]=>  GнѦяɪß-ÅнмαÐ [224624896] used /get احمدیم_احمدی 
+#احمدیم_احمدی  
+
+💠شعار زمینه سازان ظهور💠
+
+🌼 امام محمد باقر ع می فرماید : 
+
+🌺( برای خداوند در طالقان گنجی است که از طلا ونقره نیست، دوازده هزار نفر در خراسان که شعارشان
+ « ⚜احمد احمد⚜ »، 
+جوانی از بنی هاشم  برروی اسب شهبا در حالی که سربند قرمز بر سر بسته  ، آنها را رهبری می کند ، 
+
+🌺 گویی  به او نگاه می کنم که از رود فرات می گذرد ، هرگاه آنرا ( توصیفات) شنیدید  بسوی اوبشتابید حتی اگر مجبور به خزیدن روی برف باشید ) .
+
+
+🌼عن الامام الباقرع : 
+
+🌺( ان لله کنزا بالطالقان لیس بذهب ولا فضه اثنا عشر الفا بخراسان شعارهم «احمد احمد » یقودهم شاب من بنی هاشم علی بغله شهباء علیه عصابه حمراء کانی انظر الیه عابر الفرات فاذا سمعتم بذلک فسارعوا الیه ولوحبوا علی الثلج ) 
+
+
+📚 منتخب الانوار المضیئه ص 343 .
+
+🌹احادیث مهدویت
+
+🆔 @ahadiseyamani
+💠 @zaman_zohour
+ 
+[ Wed May 11 15:44:04 2016 ]=>  reza_mahdavi [195445476] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:44:06 2016 ]=>  پسرک_شیطون [156948172] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:48:53 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 15:48:53 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 15:49:43 2016 ]=>  ⇶αん₥α₫⇶ [89175236] used /get start@SpamBot
+ 
+[ Wed May 11 15:49:55 2016 ]=>  mr.emran [156532337] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:52:18 2016 ]=>  "Salar" [196313648] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:52:56 2016 ]=>  h_bib [128429319] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:53:09 2016 ]=>  Amir_ali#1 [202719834] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:56:19 2016 ]=>  ÑÃFÄ§ [51431787] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:56:30 2016 ]=>  ρσυяια....reportamدهتااستیکر_بده_... [98139372] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:56:47 2016 ]=>  رضا [175015751] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:58:27 2016 ]=>  م [212122785] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:58:45 2016 ]=>  pouya24 [179793555] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:59:04 2016 ]=>  H [210612971] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 15:59:26 2016 ]=>  Emad [96990705] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:01:35 2016 ]=>  Akbar_Maleki [196424686] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:01:38 2016 ]=>  ع_17 [222477357] used /get start@SpamBot
+ 
+[ Wed May 11 16:01:51 2016 ]=>  Mahsaaaaa [193727837] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:01:52 2016 ]=>  شیوا_ریپورتی_😢😢 [229976030] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:04:29 2016 ]=>  •_eЯFAn_•__•Pv_=_10_stiker• [108819247] used /get start@SpamBot
+ 
+[ Wed May 11 16:13:33 2016 ]=>  رًًٍٍوًًٍٍحًََ۩اًًٍٍلًًٍٍلًًٍٍهًًٍٍ☞※☜هًًٍٍیًًٍٍوًًٍٍَلًًٍٍاًََمًًٍٍَ . ♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♕♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛♛▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▆▓▓▓▓▓▓▓▓▓▓▓▓ [177670601] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 11 16:26:24 2016 ]=>  جمیز.وات_جمیز.وات [149233983] used /get اشکان.عزیزم.تهران.زندگی.میکنی
+ 
+[ Wed May 11 16:27:14 2016 ]=>  تــــــــــنــــــــــهــــــــــا [119575214] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:29:20 2016 ]=>  Hadi_Bahar [142559675] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:29:32 2016 ]=>  TIGER [139372196] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:30:09 2016 ]=>  mahdi [78590130] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:30:35 2016 ]=>  ابراهیم_قربانی [129677855] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:31:35 2016 ]=>  علی_رضا [179850403] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:32:21 2016 ]=>  Amir_Koohsar [165580288] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:32:50 2016 ]=>  Pedram#1 [188843391] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:36:13 2016 ]=>  🎈🐰|•ɦє๔เєɦ•|🐰🎈 [180367378] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:38:39 2016 ]=>  یــــــــــــــه دنــــــــــــیــــــــــــا غــــــــــریـــــــــــبـــــــم ڪـــــــــــجـــــــــایے عـــــــــــــــــزیــــــــــزم [207742027] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 11 16:38:39 2016 ]=>  یــــــــــــــه_دنــــــــــــیــــــــــــا_غــــــــــریـــــــــــبـــــــم_ڪـــــــــــجـــــــــایے_عـــــــــــــــــزیــــــــــزم [207742027] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:39:00 2016 ]=>  Mehdi_051 [209704496] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:39:08 2016 ]=>  Mohammad'ß [107013135] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:39:08 2016 ]=>  arsalan_azizi [117303706] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:39:28 2016 ]=>  *ﾑЯﾑℳ‌‌*_. [123809532] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:40:42 2016 ]=>  ای دل💞 دیوانــــــــــــــه ام💞 آرام💞 بگــیر [200926744] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 11 16:40:42 2016 ]=>  ای_دل💞_دیوانــــــــــــــه_ام💞_آرام💞_بگــیر [200926744] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:44:54 2016 ]=>  دردمحبت_درمانندارد!!؟؟ [206997961] used /get start@SpamBot
+ 
+[ Wed May 11 16:44:54 2016 ]=>  دردمحبت_درمانندارد!!؟؟ [206997961] used /get start@SpamBot
+ 
+[ Wed May 11 16:45:37 2016 ]=>  Zohre [141535395] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:46:28 2016 ]=>  امین [188459104] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 16:46:45 2016 ]=>  امین [188459104] used /get سلام
+ 
+[ Wed May 11 16:46:45 2016 ]=>  امین [188459104] used /get سلام
+ 
+[ Wed May 11 16:50:25 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:50:25 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:50:26 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏#حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:50:27 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:50:27 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:50:30 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:54:15 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:54:18 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:54:20 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:54:43 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 16:54:43 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 16:54:55 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 16:55:00 2016 ]=>  اون_مثل_داداشم_بود [175968159] used /get حمید_واعظ_بودن_سخته بهترین اسم هست 🙏🙏🙏🙏
+ 
+[ Wed May 11 17:03:54 2016 ]=>  😍ســـــــــــــــیـاااااااوشـــــ😍 [202908190] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 11 17:07:03 2016 ]=>  باهوز_ترورم [182029838] used /get گروه سالکان ابدیت🌹🌹🌹🌹
+محیطی سالم برای آشنایی و گپ سالم https://telegram.me/joinchat/Bb6N8Qfz7DLcKJUfvxL4tg
+ 
+[ Wed May 11 17:16:15 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 17:16:15 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 17:22:49 2016 ]=>  بابایی [150818362] used /get gpinfo
+ 
+[ Wed May 11 17:22:49 2016 ]=>  بابایی [150818362] requested SuperGroup info
+ 
+[ Wed May 11 17:23:17 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Wed May 11 17:24:56 2016 ]=>  رویـــAAAAAـــا [206510203] used /get start@SpamBot
+ 
+[ Wed May 11 17:27:12 2016 ]=>  سامی [208470620] kicked for #spam
+ 
+[ Wed May 11 17:27:59 2016 ]=>  بابایی [150818362] used /get setlink
+ 
+[ Wed May 11 17:28:04 2016 ]=>  mohammad [180648367] used /get setlink
+ 
+[ Wed May 11 17:28:58 2016 ]=>  mohammad [180648367] used /get start@SpamBot
+ 
+[ Wed May 11 17:29:07 2016 ]=>  mohammad [180648367] used /get start@SpamBot
+ 
+[ Wed May 11 17:29:08 2016 ]=>  mohammad [180648367] used /get start@SpamBot
+ 
+[ Wed May 11 17:29:14 2016 ]=>  mohammad [180648367] used /get start@SpamBot
+ 
+[ Wed May 11 17:33:11 2016 ]=>  parniya [193044083] used /get فیلتر شکن
+آخرین نسخه ی هات اسپات شید Elite  با آیپی آمریکا
+***آخرین پست کانال***
+ 💯✅⬇️⬇️
+ 🆔 @persian_DB
+👇👇👇👇👇👇👇
+ https://telegram.me/joinchat/BljP9DwT76wXR5D5Cqwzfg
+ 
+[ Wed May 11 17:35:35 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Wed May 11 17:35:46 2016 ]=>  بابایی [150818362] used /get lock links
+ 
+[ Wed May 11 17:35:46 2016 ]=>  بابایی [150818362] locked link posting 
+ 
+[ Wed May 11 17:35:57 2016 ]=>  Sh [211236652] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:37:04 2016 ]=>  m.b [123402781] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:38:03 2016 ]=>  乙ﾑん尺ﾑ [135072257] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:39:32 2016 ]=>  ➡🔱amin🔱😏 [121272220] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:39:46 2016 ]=>  ☆sara☆ [223019257] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:39:53 2016 ]=>  乃ﾑん尺ﾑᄊ🚫N◊_Ļ◊√È🚫 [210791532] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:39:54 2016 ]=>  GѺℜ฿∃_S∃℉Å† [168165444] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:40:10 2016 ]=>  GѺℜ฿∃_S∃℉Å† [168165444] used /get start@SpamBot
+ 
+[ Wed May 11 17:40:19 2016 ]=>  الناز [129481924] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:42:08 2016 ]=>  Ali_MZ [219875871] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:43:10 2016 ]=>  Raha_رها_اکبری [75204144] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:44:41 2016 ]=>  بابایی [150818362] used /get lock username
+ 
+[ Wed May 11 17:44:41 2016 ]=>  بابایی [150818362] locked username
+ 
+[ Wed May 11 17:44:57 2016 ]=>  بابایی [150818362] used /get lock fosh
+ 
+[ Wed May 11 17:44:57 2016 ]=>  بابایی [150818362] locked fosh
+ 
+[ Wed May 11 17:45:17 2016 ]=>  asghar [196456411] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:45:46 2016 ]=>  H_e_H [164739155] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:45:53 2016 ]=>  Milad [210791648] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:46:33 2016 ]=>  بابایی [150818362] used /get filter جنده
+ 
+[ Wed May 11 17:46:33 2016 ]=>  Baran_jooon [126503980] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:46:39 2016 ]=>  REZA_M___/// [200907854] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:47:27 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Wed May 11 17:47:27 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Wed May 11 17:49:16 2016 ]=>  REZAM/// @r4101374 [200907854] kicked for #spam
+ 
+[ Wed May 11 17:50:51 2016 ]=>  مسیM_A_.M [121535157] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:52:47 2016 ]=>  بابایی [150818362] used /get lock operator
+ 
+[ Wed May 11 17:52:47 2016 ]=>  بابایی [150818362] locked operator
+ 
+[ Wed May 11 17:53:15 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Wed May 11 17:53:15 2016 ]=>  بابایی [150818362] deleted a message by reply
+ 
+[ Wed May 11 17:53:34 2016 ]=>  بابایی [150818362] used /get banall @Sardar_t439
+ 
+[ Wed May 11 17:54:03 2016 ]=>  sadaf_iii [113993663] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:55:27 2016 ]=>  Hosein [113192532] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 17:56:00 2016 ]=>  Deleted_Account [217946394] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:07:37 2016 ]=>  .mehdi. [167740270] used /get نفسمی نفس
+ 
+[ Wed May 11 18:12:27 2016 ]=>  بابایی [150818362] used /get filter ساناز
+ 
+[ Wed May 11 18:12:56 2016 ]=>  بابایی [150818362] used /get unfilter ساناز
+ 
+[ Wed May 11 18:13:39 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock photo
+ 
+[ Wed May 11 18:14:00 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock photo
+ 
+[ Wed May 11 18:14:13 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get help
+ 
+[ Wed May 11 18:14:56 2016 ]=>  mohammad [180648367] used /get filter 😂
+ 
+[ Wed May 11 18:15:41 2016 ]=>  Raha_رها_اکبری [75204144] used /get start@SpamBot
+ 
+[ Wed May 11 18:16:07 2016 ]=>  mohammad [180648367] used /get filter بای
+ 
+[ Wed May 11 18:20:58 2016 ]=>  بابایی [150818362] used /get unlock reply
+ 
+[ Wed May 11 18:20:58 2016 ]=>  بابایی [150818362] unlocked reply
+ 
+[ Wed May 11 18:23:54 2016 ]=>  بابایی [150818362] used /get unlock media
+ 
+[ Wed May 11 18:23:54 2016 ]=>  بابایی [150818362] unlocked media
+ 
+[ Wed May 11 18:24:50 2016 ]=>  A_R_S_A_L_A_N [138972419] used /get سلام
+ 
+[ Wed May 11 18:25:19 2016 ]=>  بابایی [150818362] used /get mute gifs
+ 
+[ Wed May 11 18:25:19 2016 ]=>  بابایی [150818362] set SuperGroup to: mute Gifs
+ 
+[ Wed May 11 18:37:22 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سردشت 
+#فروش  #منزل_مسکونی
+یک باب منزل مسکونی دو طبقه دارای پارکینگ و کلیه امتیازات
+واقعا لوکس و شیک
+آدرس: کوی جانبازان. کوی پنجم
+
+متراژ: 140متر مربع زیربنا 250 متر
+
+
+قیمت: توافقی
+تماس:
++989901633264
+@tabelo
+#1000
+ 
+[ Wed May 11 18:37:22 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سنندج
+#اجاره  #دفتر کار
+یک واحد جهت کار اداری با موقعیت عالی اجاره داده می شود
+آدرس: شهرک سعدی،خیابان فارابی،کوچه علی حیدری،پلاک 100
+
+متراژ: 70 متر مربع
+
+قیمت:8میلیون ودیعه با600هزار تومان کرایه
+تماس:
++989181742007
+@tabelo
+#5002
+ 
+[ Wed May 11 18:37:43 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سنندج
+#اجاره  #دفتر کار
+یک واحد جهت کار اداری با موقعیت عالی اجاره داده می شود
+آدرس: شهرک سعدی،خیابان فارابی،کوچه علی حیدری،پلاک 100
+
+متراژ: 70 متر مربع
+
+قیمت:8میلیون ودیعه با600هزار تومان کرایه
+تماس:
++989181742007
+@tabelo
+#5002
+ 
+[ Wed May 11 18:48:45 2016 ]=>  یاسـین [155325658] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:50:38 2016 ]=>  Sadegh [219084860] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:54:32 2016 ]=>  Navid [114788151] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:55:18 2016 ]=>  ღøнαღαδ【Ѻηℓʏ✍】Я¡ρøЯτ [153804071] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:55:37 2016 ]=>  Amir_Barzin [172927925] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 18:57:49 2016 ]=>  ღøнαღαδ【Ѻηℓʏ✍】Я¡ρøЯτ [153804071] used /get unlock
+ 
+[ Wed May 11 18:58:08 2016 ]=>  ღøнαღαδ【Ѻηℓʏ✍】Я¡ρøЯτ [153804071] used /get start@SpamBot
+ 
+[ Wed May 11 19:50:53 2016 ]=>  Javab [206204113] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 19:52:03 2016 ]=>  Javab [206204113] used /get start@SpamBot
+ 
+[ Wed May 11 19:54:35 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سردشت 
+#فروش  #منزل_مسکونی
+یک باب منزل مسکونی دو طبقه دارای پارکینگ و کلیه امتیازات
+واقعا لوکس و شیک
+آدرس: کوی جانبازان. کوی پنجم
+
+متراژ: 140متر مربع زیربنا 250 متر
+
+
+قیمت: توافقی
+تماس:
++989901633264
+@tabelo
+#1000
+ 
+[ Wed May 11 19:54:35 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سنندج
+#اجاره  #دفتر کار
+یک واحد جهت کار اداری با موقعیت عالی اجاره داده می شود
+آدرس: شهرک سعدی،خیابان فارابی،کوچه علی حیدری،پلاک 100
+
+متراژ: 70 متر مربع
+
+قیمت:8میلیون ودیعه با600هزار تومان کرایه
+تماس:
++989181742007
+@tabelo
+#5002
+ 
+[ Wed May 11 20:19:18 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سنندج
+#اجاره  #دفتر کار
+یک واحد جهت کار اداری با موقعیت عالی اجاره داده می شود
+آدرس: شهرک سعدی،خیابان فارابی،کوچه علی حیدری،پلاک 100
+
+متراژ: 70 متر مربع
+
+قیمت:8میلیون ودیعه با600هزار تومان کرایه
+تماس:
++989181742007
+@tabelo
+#5002
+ 
+[ Wed May 11 20:52:39 2016 ]=>  Ho3ein [112370605] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:13:19 2016 ]=>  mehrdad [140439321] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:13:41 2016 ]=>  mehrdad [140439321] used /get کسی نیس
+ 
+[ Wed May 11 21:24:19 2016 ]=>  Omid_Zi [96915571] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:24:35 2016 ]=>  Omid_Zi [96915571] used /get //گپ فرهنگی واجتماعی تقدیم براهوطنامون///
+به ماپیوندید👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+https://telegram.me/joinchat/BcbQcz3Lzz07nQQBtsMZew
+
+(لینک چت عکس های عاشقانه وروابطه دوستی درخدمت همه عزیزان هستیم تشریف بیارین)
+
+          $/Omid zi/$
+🌺🌺🌺🌺🌺🌺🌺🌺
+ 
+[ Wed May 11 21:24:41 2016 ]=>  Omid_Zi [96915571] used /get //گپ فرهنگی واجتماعی تقدیم براهوطنامون///
+به ماپیوندید👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+https://telegram.me/joinchat/BcbQcz3Lzz07nQQBtsMZew
+
+(لینک چت عکس های عاشقانه وروابطه دوستی درخدمت همه عزیزان هستیم تشریف بیارین)
+
+          $/Omid zi/$
+🌺🌺🌺🌺🌺🌺🌺🌺
+ 
+[ Wed May 11 21:24:48 2016 ]=>  Omid_Zi [96915571] used /get //گپ فرهنگی واجتماعی تقدیم براهوطنامون///
+به ماپیوندید👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+https://telegram.me/joinchat/BcbQcz3Lzz07nQQBtsMZew
+
+(لینک چت عکس های عاشقانه وروابطه دوستی درخدمت همه عزیزان هستیم تشریف بیارین)
+
+          $/Omid zi/$
+🌺🌺🌺🌺🌺🌺🌺🌺
+ 
+[ Wed May 11 21:30:08 2016 ]=>  ..........تمام.......... [188522042] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:31:50 2016 ]=>  ﹩_ʝʝ_∂_♭_Å_ⅾ_ℬ_☺_¥ [177689448] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:40:42 2016 ]=>  Mamad_Tokhs [175298904] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:45:19 2016 ]=>  Seda [53397260] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 21:45:49 2016 ]=>  AliReZa [136446516] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:12:56 2016 ]=>  ¥Møĥämmăđ¥ [101729091] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:18:08 2016 ]=>  ♠️💯M_soud♣️ [171993586] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:22:32 2016 ]=>  مـِهــْლεнอïــدے [78359846] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:22:40 2016 ]=>  مـِهــْლεнอïــدے [78359846] used /get joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+بزرگان سکس
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+بزرگان سکس
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO50FmqilHvlJAIQ
+https://telegram.me/joinchat/BKutJjvO
+ 
+[ Wed May 11 22:24:28 2016 ]=>  وحید_... [217789107] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:24:32 2016 ]=>  مهدی_رمانتیک [121160523] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:24:53 2016 ]=>  پسرک_شیطون [156948172] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:38:54 2016 ]=>  hamid_... [119238391] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 22:42:46 2016 ]=>  Asal_b_Πo™ [114848729] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:03:34 2016 ]=>  Mohammadreza" [192250270] used /get start@SpamBot
+ 
+[ Wed May 11 23:03:34 2016 ]=>  Mohammadreza" [192250270] used /get start@SpamBot
+ 
+[ Wed May 11 23:04:32 2016 ]=>  The_END [189380464] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:04:46 2016 ]=>  The_END [189380464] used /get start@SpamBot
+ 
+[ Wed May 11 23:13:04 2016 ]=>  ......._... [103448883] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:19:33 2016 ]=>  M._Abbasi [174309455] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:21:35 2016 ]=>  ز..... [179704791] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:22:59 2016 ]=>  Maysam [133903102] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:24:51 2016 ]=>  Mohammadreza" [192250270] used /get ❤️
+ 
+[ Wed May 11 23:30:37 2016 ]=>  M [201774318] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:30:51 2016 ]=>  اونو_یارش_منو_یادش_.اونو_فازش_منو_فابش [95018669] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:31:09 2016 ]=>  محمد [162570735] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:31:26 2016 ]=>  Fatemeh [202756575] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:33:13 2016 ]=>  ... [182356457] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:33:19 2016 ]=>  Мойдммдd [198549908] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:37:41 2016 ]=>  ⇩⇦..尺ξžά_..⇨ [34843735] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:46:29 2016 ]=>  ر [209696426] used /get !tgservice chat_add_user_link
+ 
+[ Wed May 11 23:48:23 2016 ]=>  م_ر [121825823] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:01:26 2016 ]=>  No_love [84676111] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:15:10 2016 ]=>  Ali_akbar [186953563] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:15:43 2016 ]=>  Ali_akbar [186953563] used /get start@SpamBot
+ 
+[ Thu May 12 00:15:51 2016 ]=>  ر [209696426] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:17:19 2016 ]=>  🎼Dj🎻fatii🎧 [71442606] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:18:01 2016 ]=>  الهام [62394262] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 00:18:05 2016 ]=>  الهام [62394262] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 00:18:11 2016 ]=>  الهام [62394262] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 00:18:23 2016 ]=>  الهام [62394262] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 00:20:07 2016 ]=>  احسان [192893424] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:21:12 2016 ]=>  ........ً. [181821357] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:22:41 2016 ]=>  Mehran_M [32706283] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:22:42 2016 ]=>  Poorya [210126147] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:23:48 2016 ]=>  M#1 [150042984] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:25:43 2016 ]=>  rasoul @rasolmiri5960 [90944462] kicked for #spam
+ 
+[ Thu May 12 00:28:57 2016 ]=>  Amirali [62279706] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:31:11 2016 ]=>  M#1 [150042984] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:33:24 2016 ]=>  ✿↝.._☆⇨../_ƒάፒξℳደ_..فُا,⇦☆ [156713392] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:36:45 2016 ]=>  ALi_F [198884208] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:41:15 2016 ]=>  مانی [201302318] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:42:46 2016 ]=>  ʝơҠɛř.Ćřąʑყ [188913613] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 00:46:27 2016 ]=>  كيهان [194051108] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:48:00 2016 ]=>  Ali#1 [210481407] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:48:07 2016 ]=>  aida... [180936780] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:50:15 2016 ]=>  Empratoor [114800056] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:50:20 2016 ]=>  ʝơҠɛř.Ćřąʑყ#1 [208426345] used /get start@SpamBot
+ 
+[ Thu May 12 00:55:04 2016 ]=>  👒£li👒 [90125726] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:55:58 2016 ]=>  Neda [185784782] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:59:38 2016 ]=>  عشق [104233289] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 00:59:54 2016 ]=>  ●ЬДD_ЬоУ● [109695205] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:00:36 2016 ]=>  goooool [186817838] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:01:45 2016 ]=>  Monire~gh [110805231] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:01:58 2016 ]=>  ****** [153135158] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:02:02 2016 ]=>  ●ЬДD_ЬоУ● [109695205] used /get start@SpamBot
+ 
+[ Thu May 12 01:02:57 2016 ]=>  ****** @samanop [153135158] kicked for #spam
+ 
+[ Thu May 12 01:04:02 2016 ]=>  ❤️❤️😘😘😘👀👀👀👁👁👄👄👄💅💅✍🖖👣👣👣👣👣👣👣💋💋💄👠👡👞👑🎩👒👟🎒⛑👠💋💄👒👜👕👚👘👔👗🌂❣❣❣💔💔💔💔💔💔🌂🌂🌂💐💐💐🌺🌹🌷🍃🕸🎈🎈🎈🎈🎈🎈🎉🎉🎎🎎🎀🎀🎁🎊🎊🎁🎏🎏🎈🗿🗿🚦🚥🚏🚧🚧☺️😜😜😭😊😉😱😄☺️😳😳❤️😱😍😞😡🙈👣🎈📡❣💐🎏👄😋💔🚶🗿😀👣🎈🎈🎈👣👣👣👣👣🌂😆📡💄💄💄💄💄💄🌂😆👣🌂🗿🎏😐💔😋😋🚶👀👀👀👀😕😕🚧🚧🚧🎎🎎🏃🏃🏃😍😍😍😊😊😜😄😄😄🙈🙈❤️😘😳😡👣👣👣👣🎈🎈🎈👣👣🌂💄👄😋😋💔💄🌂🌂💄😐😐😋🙊😜😜😜😜🙊😋💔🚶😅😢😝😃😏😌😆💄😐😋🙊💐💐💐💐💄💄💄💄💄👣👣👣👣👣👣💔💔👣👣🎈🎈🎈🎈🎈👣👣👣 [172559534] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 01:04:02 2016 ]=>  ❤️❤️😘😘😘👀👀👀👁👁👄👄👄💅💅✍🖖👣👣👣👣👣👣👣💋💋💄👠👡👞👑🎩👒👟🎒⛑👠💋💄👒👜👕👚👘👔👗🌂❣❣❣💔💔💔💔💔💔🌂🌂🌂💐💐💐🌺🌹🌷🍃🕸🎈🎈🎈🎈🎈🎈🎉🎉🎎🎎🎀🎀🎁🎊🎊🎁🎏🎏🎈🗿🗿🚦🚥🚏🚧🚧☺️😜😜😭😊😉😱😄☺️😳😳❤️😱😍😞😡🙈👣🎈📡❣💐🎏👄😋💔🚶🗿😀👣🎈🎈🎈👣👣👣👣👣🌂😆📡💄💄💄💄💄💄🌂😆👣🌂🗿🎏😐💔😋😋🚶👀👀👀👀😕😕🚧🚧🚧🎎🎎🏃🏃🏃😍😍😍😊😊😜😄😄😄🙈🙈❤️😘😳😡👣👣👣👣🎈🎈🎈👣👣🌂💄👄😋😋💔💄🌂🌂💄😐😐😋🙊😜😜😜😜🙊😋💔🚶😅😢😝😃😏😌😆💄😐😋🙊💐💐💐💐💄💄💄💄💄👣👣👣👣👣👣💔💔👣👣🎈🎈🎈🎈🎈👣👣👣 [172559534] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:08:22 2016 ]=>  D***A***R***A [159845367] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:10:01 2016 ]=>  M.DUTT [75230734] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:10:19 2016 ]=>  M.DUTT [75230734] used /get start@SpamBot
+ 
+[ Thu May 12 01:10:28 2016 ]=>  M.DUTT [75230734] used /get start@SpamBot
+ 
+[ Thu May 12 01:11:08 2016 ]=>  بابایی [150818362] used /get if
+ 
+[ Thu May 12 01:11:14 2016 ]=>  بابایی [150818362] used /get id
+ 
+[ Thu May 12 01:11:14 2016 ]=>  بابایی [150818362] requested SuperGroup ID
+ 
+[ Thu May 12 01:42:46 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Thu May 12 01:43:31 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سردشت 
+#فروش  #منزل_مسکونی
+یک باب منزل مسکونی دو طبقه دارای پارکینگ و کلیه امتیازات
+واقعا لوکس و شیک
+آدرس: کوی جانبازان. کوی پنجم
+
+متراژ: 140متر مربع زیربنا 250 متر
+
+
+قیمت: توافقی
+تماس:
++989901633264
+@tabelo
+#1000
+ 
+[ Thu May 12 01:43:31 2016 ]=>  Is._MëhŕāŃ_A [95810591] used /get سنندج
+#اجاره  #دفتر کار
+یک واحد جهت کار اداری با موقعیت عالی اجاره داده می شود
+آدرس: شهرک سعدی،خیابان فارابی،کوچه علی حیدری،پلاک 100
+
+متراژ: 70 متر مربع
+
+قیمت:8میلیون ودیعه با600هزار تومان کرایه
+تماس:
++989181742007
+@tabelo
+#5002
+ 
+[ Thu May 12 01:48:39 2016 ]=>  💀✘بـےآ؏ـصآبـ✘💀 [121468438] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:48:53 2016 ]=>  💀✘بـےآ؏ـصآبـ✘💀 [121468438] used /get  https://telegram.me/joinchat/Bz12Fj2JakbyYnqsMhZWzA
+ 
+[ Thu May 12 01:49:29 2016 ]=>  ℳɨss_ﾑvﾑ [210949894] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:49:51 2016 ]=>  Foad_nadafi [105244631] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:52:03 2016 ]=>  ─═हई♚ֆΩዠΩЯ♚ईह═─_. [179540414] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:53:48 2016 ]=>  👔The_KING👔 [230829574] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:55:16 2016 ]=>  ⓢⓞⓡⓔⓝⓐ [98951749] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 01:58:25 2016 ]=>  sepideh))… [138661351] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:04:00 2016 ]=>  Mojtaba [195825433] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:06:43 2016 ]=>  S [207543388] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:07:07 2016 ]=>  Sajjad_ZR [199626709] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:10:23 2016 ]=>  ر [209696426] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:26:00 2016 ]=>  yyy_..... [67182797] used /get start@SpamBot
+ 
+[ Thu May 12 02:26:05 2016 ]=>  yyy_..... [67182797] used /get start@SpamBot
+ 
+[ Thu May 12 02:26:07 2016 ]=>  yyy_..... [67182797] used /get start@SpamBot
+ 
+[ Thu May 12 02:26:07 2016 ]=>  yyy_..... [67182797] used /get start@SpamBot
+ 
+[ Thu May 12 02:26:08 2016 ]=>  yyy_..... [67182797] used /get start@SpamBot
+ 
+[ Thu May 12 02:29:55 2016 ]=>  ⓢⓐЯŋεⓥεⓢɦｲ [203834072] kicked for #spam
+ 
+[ Thu May 12 02:32:12 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Thu May 12 02:32:20 2016 ]=>  بابایی [150818362] used /get start@SpamBot
+ 
+[ Thu May 12 02:32:27 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Thu May 12 02:42:43 2016 ]=>  M [100754214] used /get start@SpamBot
+ 
+[ Thu May 12 02:48:12 2016 ]=>  والیبال_مراوه_تپه [215518713] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:51:23 2016 ]=>  )-(●_ㅌ!N [125236555] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:51:39 2016 ]=>  moh3en [137303937] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:54:57 2016 ]=>  Sogolii❤ [216185594] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:55:45 2016 ]=>  Armin [54092005] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 02:57:05 2016 ]=>  Armin [54092005] used /get start@SpamBot
+ 
+[ Thu May 12 03:00:15 2016 ]=>  علیرضا [121385507] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:01:10 2016 ]=>  ═हई╬Pes_r_kh_s╬ईह═ [204529172] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:01:45 2016 ]=>  ای_فلک_تا_کی_کلک [49529690] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:01:49 2016 ]=>  ✿↝.._みΘЗεУɳ_..↜✿ [143281610] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:02:02 2016 ]=>  ★_ [155174556] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:02:32 2016 ]=>  milad [100960227] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:02:58 2016 ]=>  ......... [91547584] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:03:16 2016 ]=>  "هع_چه_فاز_سنگینی" [177602105] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:05:38 2016 ]=>  😔Đēp😔 [174120346] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:06:26 2016 ]=>  😔Đēp😔 [174120346] used /get  ⌛✖》سیلور هاپ《✖⌛
+
+addmin: ......
+
+https://telegram.me/joinchat/CmDdmj639YejNK4rUEsl-g
+
+✖No Pv✖
+✖No Link✖
+✖No dava✖
+✖✖No xxx✖✖
+√add Konid√
+ 
+[ Thu May 12 03:20:57 2016 ]=>  Bi_khiale_Hame_chiz [220559370] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:21:17 2016 ]=>  RNB_76 [168573746] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:21:52 2016 ]=>  M.DUTT [75230734] used /get start@SpamBot
+ 
+[ Thu May 12 03:22:13 2016 ]=>  تنها!! [145491101] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:22:35 2016 ]=>  Vahid#1 [211171999] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:22:49 2016 ]=>  بانو [214317042] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 03:43:17 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Thu May 12 03:43:17 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Thu May 12 03:46:38 2016 ]=>  💞🌞ali-ht💝🌛 @Alii_ht [170003139] kicked for #spam
+ 
+[ Thu May 12 03:48:31 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get  https://telegram.me/joinchat/DKLAPj6NQXYlW0flyrbpQQ
+💥چـــــــــــــــــــــــــــــــــــت💥
+👧دختـــــــــــــــــــــــــر😉پســـــــــــــــــــــــر👦
+⛔بی ادبــــــی ممنوع⛔
+⚡لینک آزادی بزاری⚡
+✨جنبه داری بیا تو✨
+ 
+[ Thu May 12 03:50:07 2016 ]=>  بابایی [150818362] locked username
+ 
+[ Thu May 12 03:50:07 2016 ]=>  بابایی [150818362] used /get lock username
+ 
+[ Thu May 12 03:50:58 2016 ]=>  بابایی [150818362] locked tag 
+ 
+[ Thu May 12 03:50:58 2016 ]=>  بابایی [150818362] used /get lock tag
+ 
+[ Thu May 12 03:51:12 2016 ]=>  👽Fαтï๓α👽 [202022512] used /get lock
+ 
+[ Thu May 12 03:59:45 2016 ]=>  خیالـــــــــــــــــــــــــــــــــــــــــــی نیســـــــــت... [190090369] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 04:06:26 2016 ]=>  بابایی [150818362] used /get del
+ 
+[ Thu May 12 04:06:26 2016 ]=>  بابایی [150818362] deleted a message by reply
+ 
+[ Thu May 12 04:36:51 2016 ]=>  mojtaba [115492434] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:38:46 2016 ]=>  مبین [118810036] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:41:27 2016 ]=>  محمد [207419375] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:42:34 2016 ]=>  علی [179457125] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:43:12 2016 ]=>  J.m [180437793] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:43:29 2016 ]=>  سهند_A [174845136] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:45:33 2016 ]=>  MAN_78 [186695589] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:48:49 2016 ]=>  «محمد»_81474 [136925110] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:49:04 2016 ]=>  لهراسب_یاوری [207826041] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:55:37 2016 ]=>  I_AM... [182735072] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:55:40 2016 ]=>  AREF///پسر_شیطون [121066401] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:56:33 2016 ]=>  محسن_.... [183578443] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:57:19 2016 ]=>  ╖╠پـــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔویــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔا پــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔایــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔدار╣╓ [72979216] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 04:57:19 2016 ]=>  ╖╠پـــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔویــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔا_پــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔایــ۪۪ـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔدار╣╓ [72979216] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 04:58:49 2016 ]=>  saeid [109021858] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:00:48 2016 ]=>  Amir_Hosein [141782740] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:01:43 2016 ]=>  🔱..ķãmŗąŋ..🔱 [213660234] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:06:47 2016 ]=>  💠🔵ÄŠƏmÖÕŇ🔵💠 [70926985] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:15:01 2016 ]=>  16روز [132622267] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:16:26 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ👉ცlackცrﾑɨŋ』ًًٌٌٍٍٖٖ [211992638] banned user is talking !
+ 
+[ Thu May 12 05:28:13 2016 ]=>  بابایی [150818362] used /get gpinfo
+ 
+[ Thu May 12 05:28:13 2016 ]=>  بابایی [150818362] requested SuperGroup info
+ 
+[ Thu May 12 05:28:40 2016 ]=>  بابایی [150818362] used /get ban @Amirnadimi
+ 
+[ Thu May 12 05:28:46 2016 ]=>  بابایی [150818362] used /get lock fwd
+ 
+[ Thu May 12 05:28:46 2016 ]=>  بابایی [150818362] locked fwd
+ 
+[ Thu May 12 05:29:12 2016 ]=>  sajad [169362257] used /get start@SpamBot
+ 
+[ Thu May 12 05:29:26 2016 ]=>  sajad [169362257] used /get start@SpamBot
+ 
+[ Thu May 12 05:29:32 2016 ]=>  sajad [169362257] used /get start@SpamBot
+ 
+[ Thu May 12 05:29:38 2016 ]=>  sajad [169362257] used /get start@SpamBot
+ 
+[ Thu May 12 05:31:46 2016 ]=>  ****alireza**** [127806936] used /get start@SpamBot
+ 
+[ Thu May 12 05:31:53 2016 ]=>  ****alireza**** [127806936] used /get start@SpamBot
+ 
+[ Thu May 12 05:33:03 2016 ]=>  👽Fαтï๓α👽 [202022512] used /get start@SpamBot
+ 
+[ Thu May 12 05:33:06 2016 ]=>  👽Fαтï๓α👽 [202022512] used /get start@SpamBot
+ 
+[ Thu May 12 05:36:06 2016 ]=>  **سپیده** [104587677] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:36:12 2016 ]=>  ♥♥♡رفے_ق_فا_برےک♡♥♥ [91915552] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:46:23 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Thu May 12 05:46:32 2016 ]=>  به_درویشت_عنایت_کن_که_سلطانت_خطر_داره [142190771] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:46:35 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute alk
+ 
+[ Thu May 12 05:46:42 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Thu May 12 05:46:54 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Thu May 12 05:47:42 2016 ]=>  Zendani_dl [144235799] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:48:25 2016 ]=>  [mohamad_reza] [204487806] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:48:33 2016 ]=>  علی [179457125] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:48:57 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get mute all
+ 
+[ Thu May 12 05:50:26 2016 ]=>  Alireza_AAAA [128570355] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:51:07 2016 ]=>  Alireza_AAAA [128570355] used /get start@SpamBot
+ 
+[ Thu May 12 05:53:08 2016 ]=>  آیســـــــــaiselـــــل [181903072] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:59:34 2016 ]=>  **VℜѺJÅK** [232136053] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 05:59:53 2016 ]=>  آرمین_خان [216391694] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:01:05 2016 ]=>  🗽❣_آقاشم_❣🗽 [122045073] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:01:30 2016 ]=>  آرمین_خان [216391694] used /get  https://telegram.me/joinchat/CgbgdD9XsEcioEOnBd8nRQ
+ 
+[ Thu May 12 06:01:32 2016 ]=>  آرمین_خان [216391694] used /get start@SpamBot
+ 
+[ Thu May 12 06:02:41 2016 ]=>  hassan [194116932] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:02:45 2016 ]=>  خستم_😐_از_گذشتم😐 [128618398] used /get start@SpamBot
+ 
+[ Thu May 12 06:04:29 2016 ]=>  M_M [153770492] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:04:42 2016 ]=>  👑S👉H👉R👑 [112262814] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:05:35 2016 ]=>  ex [184768854] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:06:40 2016 ]=>  مرـــــــــــــــℳ¤Яｲ£乙ﾑ ـــــــــــــتضی [124680185] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 06:06:40 2016 ]=>  مرـــــــــــــــℳ¤Яｲ£乙ﾑ_ـــــــــــــتضی [124680185] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:06:49 2016 ]=>  آرمین_خان [216391694] used /get start@SpamBot
+ 
+[ Thu May 12 06:12:42 2016 ]=>  ****M,O,J,T,A,B,A**** [123886981] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:15:27 2016 ]=>  علی_رضا [179850403] used /get سلام
+ 
+[ Thu May 12 06:15:50 2016 ]=>  علی_پاکدامن [135289753] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:18:01 2016 ]=>  Mehry_Mohammady [152675062] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:20:19 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Thu May 12 06:21:02 2016 ]=>  غلا_مرضا__09339721689_زینالی [115374517] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:21:41 2016 ]=>  mohammad [180648367] used /get mute all
+ 
+[ Thu May 12 06:21:49 2016 ]=>  Mohadese [109536399] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 06:22:00 2016 ]=>  mohammad [180648367] used /get unmute all
+ 
+[ Thu May 12 06:23:17 2016 ]=>  ✖✔رًًًٍٍٍٍٍضـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََِِِِِِِِِِِِِِِِِِِْْْْْْْٰٖ؁ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََِِِِِِِِِِِِِِِِِِِْْْْْْْٰٖ‍ا✖ [34843735] used /get start@SpamBot
+ 
+[ Thu May 12 06:23:26 2016 ]=>  ✖✔رًًًٍٍٍٍٍضـٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََِِِِِِِِِِِِِِِِِِِْْْْْْْٰٖ؁ٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََِِِِِِِِِِِِِِِِِِِْْْْْْْٰٖ‍ا✖ [34843735] used /get start@SpamBot
+ 
+[ Thu May 12 06:24:52 2016 ]=>  mohammad [180648367] used /get unblock replay
+ 
+[ Thu May 12 06:26:42 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock replay
+ 
+[ Thu May 12 06:27:25 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Thu May 12 06:27:38 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Thu May 12 06:27:38 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Thu May 12 06:28:09 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get #unmute all
+ 
+[ Thu May 12 06:28:27 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Thu May 12 06:30:24 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock
+ 
+[ Thu May 12 06:30:40 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Thu May 12 06:30:40 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Thu May 12 06:30:43 2016 ]=>  mohammad [180648367] used /get unblock
+ 
+[ Thu May 12 06:30:57 2016 ]=>  mohammad [180648367] used /get unblok daus
+ 
+[ Thu May 12 06:31:09 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get settings
+ 
+[ Thu May 12 06:31:09 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup settings 
+ 
+[ Thu May 12 06:32:14 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get start@SpamBot
+ 
+[ Thu May 12 06:32:20 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get kick
+ 
+[ Thu May 12 06:32:47 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get leave
+ 
+[ Thu May 12 06:33:06 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get id
+ 
+[ Thu May 12 06:33:06 2016 ]=>  ♠♥♣ ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏 ⇟ ↴ کًٍسًٍ نًٍنًٍهًٍ بًٍدًٍخًٍوًٍاًٍهًٍ ⇟↧      ↰⇤  ↪ َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱     ▏ ▏ ⇱⇤⇤⇤⇤⇤⇲▏           ▏ ▏ ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] requested SuperGroup ID
+ 
+[ Thu May 12 06:33:28 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unmute all
+ 
+[ Thu May 12 06:34:38 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock links
+ 
+[ Thu May 12 06:34:38 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] unlocked link posting
+ 
+[ Thu May 12 06:35:02 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get lock links
+ 
+[ Thu May 12 06:35:02 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] locked link posting 
+ 
+[ Thu May 12 06:35:27 2016 ]=>  mohammad [180648367] used /get unlock links
+ 
+[ Thu May 12 06:35:54 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get unlock reply
+ 
+[ Thu May 12 06:35:54 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] unlocked reply
+ 
+[ Thu May 12 06:36:54 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get setadmins
+ 
+[ Thu May 12 06:37:14 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get setadmin
+ 
+[ Thu May 12 06:37:44 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get settings
+ 
+[ Thu May 12 06:37:58 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get setadmin@Mohamad_king_wolf
+ 
+[ Thu May 12 06:38:08 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get setadmin @Mohamad_king_wolf
+ 
+[ Thu May 12 06:38:19 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get promote
+ 
+[ Thu May 12 06:38:35 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get settings
+ 
+[ Thu May 12 06:38:49 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get owner
+ 
+[ Thu May 12 06:38:49 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] used /owner
+ 
+[ Thu May 12 06:38:55 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Thu May 12 06:38:55 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Thu May 12 06:39:45 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get modlist
+ 
+[ Thu May 12 06:39:45 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested group modlist
+ 
+[ Thu May 12 06:40:30 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ_👉ცlack_ცrﾑɨŋ』_ًًٌٌٍٍٖٖ [211992638] used /get id
+ 
+[ Thu May 12 06:40:30 2016 ]=>  ًٌٍٖ『ℳσЯｲ£乙ﾑ 👉ცlack ცrﾑɨŋ』 ًًٌٌٍٍٖٖ [211992638] requested SuperGroup ID
+ 
+[ Thu May 12 06:41:55 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get settadmin @Mohamad_king_wolf
+ 
+[ Thu May 12 06:41:59 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get settadmin @Mohamad_king_wolf
+ 
+[ Thu May 12 06:42:46 2016 ]=>  ♠♥♣_ُُُُُُُُُِِِِِِِشُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِاُُُُُُُُُِِِِِِِه_ُُُُُُُُُِِِِِِِگُُُُُُِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِـُُُُُُُُُِِِِِِِرُُُُُُُُُِِِِِِِگ🔯🔐🔏_⇟_↴_کًٍسًٍ_نًٍنًٍهًٍ_بًٍدًٍخًٍوًٍاًٍهًٍ_⇟↧______↰⇤__↪_َُُُُُُُِِِِِِِِِِوَُُُُُُُِِِِِِِِِِلَُُُُُُُِِِِِِِِِِف_َُُُُُُُِِِِِِِِِِکَُُُُُُُِِِِِِِِِِیَُُُُُُُِِِِِِِِِِنَُُُُُُُِِِِِِِِِِگ↩↱_____▏_▏_⇱⇤⇤⇤⇤⇤⇲▏___________▏_▏_ُُُِِِِِِمُُُِِِِِِحُُُِِِِِِمُُُ [204629851] used /get settadmin @Mohamad_king_wolf
+ 
+[ Thu May 12 07:13:29 2016 ]=>  مـــحـــمـدرضـــا [215872505] used /get start@SpamBot
+ 
+[ Thu May 12 07:14:30 2016 ]=>  Mohammad#1 [124040061] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:15:18 2016 ]=>  S_S [174305313] used /get !tgservice chat_add_user
+ 
+[ Thu May 12 07:15:52 2016 ]=>  💀behnooshiw💀 [203013398] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:16:29 2016 ]=>  💀behnooshiw💀 [203013398] used /get بـــهـــنــوشـ بـــهتــــریـــــنــــ اســـــمہ😕🎈
+ 
+[ Thu May 12 07:17:05 2016 ]=>  erfan_تا_استیکر_بده_اگه_مرد۱۰ [185467560] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:18:39 2016 ]=>  ساحل [204363166] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:19:30 2016 ]=>  Mahyar_gh [179182047] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:19:49 2016 ]=>  Mahyar_gh [179182047] used /get بـــهـــنــوشـ بـــهتــــریـــــنــــ اســـــمہ😕🎈
+ 
+[ Thu May 12 07:20:00 2016 ]=>  سرنوشت_بد_نوشت [126538317] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:20:06 2016 ]=>  ŸªŝMª [192968452] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:20:20 2016 ]=>  Mahyar_gh [179182047] used /get بـــهـــنــوشـ بـــهتــــریـــــنــــ اســـــمہ😕🎈
+ 
+[ Thu May 12 07:21:13 2016 ]=>  ٪*٪ [182073270] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:30:08 2016 ]=>  ცⓞIŊⓖ [213370682] kicked for #spam
+ 
+[ Thu May 12 07:52:15 2016 ]=>  ......#2 [123190924] used /get سلام دوشتان
+ 
+[ Thu May 12 07:52:15 2016 ]=>  Hossein_NoShad [113324436] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:54:50 2016 ]=>  M#2 [160434702] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:55:33 2016 ]=>  سیعد [225912525] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 08:00:18 2016 ]=>  Mr__🎧 [153980191] used /get https://telegram.me/joinchat/B2CG7DvMNLq3cWYMcjl6Vw
+ 
+[ Thu May 12 08:15:01 2016 ]=>  ..._..... [213203380] used /get  https://telegram.me/joinchat/DLU5tD9LgFOfd9AhFoCOBw
+کانال سکسی
+ https://telegram.me/joinchat/DLU5tD9LgFOfd9AhFoCOBw
+کانال سکسی
+ https://telegram.me/joinchat/DLU5tD9LgFOfd9AhFoCOBw
+کانال سکسی
+ https://telegram.me/joinchat/DLU5tD9LgFOfd9AhFoCOBw
+کانال سکسی
+ 
+[ Thu May 12 08:16:44 2016 ]=>  رضا_پی_اچ [173401212] used /get start@SpamBot
+ 
+[ Thu May 12 08:21:31 2016 ]=>  💀⇲مََُـݪَُـَُـََـ ۩ ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ ۩ ـُـََڪََُـــةََُ⇱💀 [114490102] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 08:22:04 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:23:00 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:23:10 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:23:28 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:23:38 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:23:51 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:24:05 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:24:28 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:24:34 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:24:45 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:24:52 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:25:10 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:25:22 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:25:39 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:25:59 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:26:24 2016 ]=>  💀⇲مََُـݪَُـَُـََـ_۩_ڄََُــُـََُ₰ََـُـََݩََُݦََُيݥََُ_۩_ـُـََڪََُـــةََُ⇱💀 [114490102] used /get j
+ 
+[ Thu May 12 08:38:25 2016 ]=>  wolf [169362257] used /get خوبید
+ 
+[ Thu May 12 08:56:52 2016 ]=>  Alireza#2 [204634340] used /get start@SpamBot
+ 
+[ Thu May 12 08:56:55 2016 ]=>  ✍ًاًٍَمــیٌـٍٍْaminـنٌٍツ [218716756] used /get start@SpamBot
+ 
+[ Thu May 12 08:57:07 2016 ]=>  ✍ًاًٍَمــیٌـٍٍْaminـنٌٍツ [218716756] used /get سکسی
+ 
+[ Thu May 12 09:00:44 2016 ]=>  👑👉🇰🇭🇦🇸👈👑 @Avalinzarbe [109224965] kicked for #spam
+ 
+[ Thu May 12 09:37:26 2016 ]=>  ...... [140930512] used /get start@SpamBot
+ 
+[ Thu May 12 09:37:32 2016 ]=>  ...... [140930512] used /get start@SpamBot
+ 
+[ Thu May 12 09:40:07 2016 ]=>  سًٍحًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍرًٍمًٍ ڪًٍلًٍہًٍ خًٍرًٍاًٍبًٍمًٍ [178457185] joined and Service Msg deleted (#spam name)
+ 
+[ Thu May 12 10:17:57 2016 ]=>  Ahmad_Reza [217975710] used /get start@SpamBot
+ 
+[ Thu May 12 10:18:01 2016 ]=>  Ahmad_Reza [217975710] used /get start@SpamBot
+ 
+[ Thu May 12 10:21:07 2016 ]=>  Mr__🎧 [153980191] used /get New. Babak Jahanbakhsh - Shayad
+ 
+[ Thu May 12 10:31:15 2016 ]=>  Zendanidl [144235799] kicked for #spam
+ 
+[ Thu May 12 10:46:24 2016 ]=>  فقط_بخاطر_عشقم.._Mahdih....oooooooo [184757184] used /get سلااااام
+ 
+[ Thu May 12 11:14:59 2016 ]=>  رسول_😔_R.j [170072412] used /get start@SpamBot
+ 
+[ Thu May 12 11:14:59 2016 ]=>  رسول_😔_R.j [170072412] used /get start@SpamBot
+ 
+[ Thu May 12 11:15:51 2016 ]=>  رسول_😔_R.j [170072412] used /get start@SpamBot
+ 
+[ Thu May 12 11:15:53 2016 ]=>  رسول_😔_R.j [170072412] used /get start@SpamBot
+ 
+[ Thu May 12 11:16:57 2016 ]=>  محمدامین @m1541371m [129940924] kicked for #spam
+ 
+[ Thu May 12 12:17:23 2016 ]=>  HADi [207771768] used /get start@SpamBot
+ 
+[ Thu May 12 12:17:25 2016 ]=>  HADi [207771768] used /get start@SpamBot
+ 
+[ Thu May 12 12:54:08 2016 ]=>  Tarkan @Tarkan95 [195513901] kicked for #spam
+ 
+[ Thu May 12 13:18:50 2016 ]=>  ρσυяια....reportamدهتااستیکر_بده_... [98139372] used /get start@SpamBot
+ 

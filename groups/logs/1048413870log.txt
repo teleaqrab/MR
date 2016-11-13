@@ -1,0 +1,42 @@
+[ Mon May  9 15:17:23 2016 ]=>  بابایی [150818362] used /get !tgservice chat_add_user
+ 
+[ Mon May  9 15:17:26 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Mon May  9 15:17:26 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Mon May  9 15:18:15 2016 ]=>  saman [189233681] used /get settings
+ 
+[ Mon May  9 15:18:30 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Mon May  9 15:18:30 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Mon May  9 15:19:30 2016 ]=>  بابایی [150818362] used /get unbanall @yourking85
+ 
+[ Mon May  9 15:19:56 2016 ]=>  saman [189233681] used /get settings
+ 
+[ Mon May  9 15:20:08 2016 ]=>  بابایی [150818362] used /get setowenr
+ 
+[ Mon May  9 15:20:16 2016 ]=>  بابایی [150818362] used /get setowner
+ 
+[ Mon May  9 15:20:16 2016 ]=>  بابایی [150818362] set: [189233681] as owner by reply
+ 
+[ Mon May  9 15:20:36 2016 ]=>  saman [189233681] requested SuperGroup settings 
+ 
+[ Mon May  9 15:20:36 2016 ]=>  saman [189233681] used /get settings
+ 
+[ Mon May  9 15:21:43 2016 ]=>  saman [189233681] locked link posting 
+ 
+[ Mon May  9 15:21:43 2016 ]=>  saman [189233681] used /get lock links
+ 
+[ Mon May  9 15:23:40 2016 ]=>  بابایی [150818362] used /get write Saman
+ 
+[ Mon May  9 15:24:04 2016 ]=>  بابایی [150818362] used /get help member
+ 
+[ Mon May  9 15:24:14 2016 ]=>  saman [189233681] used /get write shima
+ 
+[ Mon May  9 15:24:36 2016 ]=>  بابایی [150818362] used /get redact รค๓คภ
+ 
+[ Mon May  9 15:27:03 2016 ]=>  بابایی [150818362] used /get kickme
+ 
+[ Mon May  9 15:27:09 2016 ]=>  بابایی [150818362] used /get !tgservice chat_del_user
+ 

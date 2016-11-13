@@ -1,0 +1,16 @@
+[ Sun May  1 02:32:23 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] added SuperGroup
+ 
+[ Sun May  1 02:32:28 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 03:03:51 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 03:03:51 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 03:06:19 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Sun May  1 03:06:19 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Wed May  4 00:30:37 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] requested SuperGroup ID
+ 
+[ Wed May  4 00:30:41 2016 ]=>  ☄حـــضــــرتــ_بــے_اعــصــــابـمــ☄ [214287059] Used /superhelp
+ 

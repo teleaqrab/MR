@@ -1,0 +1,28 @@
+[ Tue May  3 19:05:31 2016 ]=>  عمو علی [212586772] added SuperGroup
+ 
+[ Tue May  3 19:05:37 2016 ]=>  عمو علی [212586772] attempted to create a new SuperGroup link
+ 
+[ Tue May  3 19:05:41 2016 ]=>  عمو علی [212586772] requested group link [https://telegram.me/joinchat/DRxjhz-YWnKHPrqMeNXo_A]
+ 
+[ Tue May  3 19:06:50 2016 ]=>  عمو علی[212586772] set [185585415] as owner by username
+ 
+[ Tue May  3 19:06:56 2016 ]=>  عمو_علی [212586772] Used /superhelp
+ 
+[ Tue May  3 19:10:56 2016 ]=>  Amir attacker S G [185585415] renamed SuperGroup to: GOLD GUARD
+ 
+[ Tue May  3 19:10:56 2016 ]=>  SalMonDor [0] renamed SuperGroup to: GOLD GUARD
+ 
+[ Tue May  3 19:23:43 2016 ]=>  Amir attacker S G [185585415] started setting new SuperGroup photo
+ 
+[ Tue May  3 19:24:07 2016 ]=>  Amir attacker S G [185585415] set new SuperGroup photo
+ 
+[ Tue May  3 19:25:24 2016 ]=>  Amir attacker S G [185585415] locked link posting 
+ 
+[ Tue May  3 19:25:32 2016 ]=>  Amir attacker S G [185585415] locked spam 
+ 
+[ Tue May  3 19:25:44 2016 ]=>  Amir attacker S G [185585415] locked flood 
+ 
+[ Tue May  3 19:26:11 2016 ]=>  Amir attacker S G [185585415] set flood to [10]
+ 
+[ Tue May  3 19:26:54 2016 ]=>  Amir attacker S G [185585415] requested SuperGroup info
+ 

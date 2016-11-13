@@ -1,0 +1,14 @@
+[ Tue May 10 12:30:55 2016 ]=>  بابایی [150818362] used /get !tgservice chat_add_user
+ 
+[ Tue May 10 12:31:03 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Tue May 10 12:31:03 2016 ]=>  بابایی [150818362] requested group settings 
+ 
+[ Tue May 10 12:31:07 2016 ]=>  بابایی [150818362] used /get id
+ 
+[ Tue May 10 12:31:07 2016 ]=>  بابایی [150818362] used /id 
+ 
+[ Tue May 10 12:31:21 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Tue May 10 12:31:21 2016 ]=>  بابایی [150818362] attempted to add group [ 147374459 ]
+ 

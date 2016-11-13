@@ -1,0 +1,14 @@
+[ Wed May  4 19:26:37 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] added SuperGroup
+ 
+[ Wed May  4 19:26:47 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] attempted to create a new SuperGroup link
+ 
+[ Wed May  4 19:26:50 2016 ]=>  ☄حـــضــــرتــ بــے اعــصــــابـمــ☄ [214287059] requested group link [https://telegram.me/joinchat/DRxjhz66ACpIuFLivs2z5g]
+ 
+[ Wed May  4 19:27:24 2016 ]=>  ☄حـــضــــرتــ_بــے_اعــصــــابـمــ☄ [214287059] Used /superhelp
+ 
+[ Wed May  4 19:28:14 2016 ]=>  عمو علی[212586772] set [219077786] as owner by username
+ 
+[ Wed May  4 19:28:55 2016 ]=>  ناشناس [219077786] Used /superhelp
+ 
+[ Thu May  5 00:05:16 2016 ]=>  ناشناس [219077786] requested SuperGroup ID
+ 

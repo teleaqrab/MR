@@ -1,0 +1,134 @@
+[ Thu May 12 03:36:21 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] added SuperGroup
+ 
+[ Thu May 12 03:36:21 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get add
+ 
+[ Thu May 12 03:36:38 2016 ]=>  بابایی [150818362] used /get setowner @B_RED_team
+ 
+[ Thu May 12 03:36:38 2016 ]=>  بابایی[150818362] set [176262007] as owner by username
+ 
+[ Thu May 12 03:36:38 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get setowner
+ 
+[ Thu May 12 03:36:59 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get help
+ 
+[ Thu May 12 03:40:50 2016 ]=>  卐Bpick ReD team卐 [176262007] requested group modlist
+ 
+[ Thu May 12 03:40:50 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get modlist
+ 
+[ Thu May 12 03:41:04 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get link
+ 
+[ Thu May 12 03:41:16 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get createlink
+ 
+[ Thu May 12 03:41:24 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get setlink
+ 
+[ Thu May 12 03:44:04 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get lock link
+ 
+[ Thu May 12 03:44:39 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get lock link
+ 
+[ Thu May 12 03:44:39 2016 ]=>  卐Bpick ReD team卐 [176262007] locked link posting 
+ 
+[ Thu May 12 03:44:39 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get lock links
+ 
+[ Thu May 12 03:46:56 2016 ]=>  卐Bpick ReD team卐 [176262007] locked spam 
+ 
+[ Thu May 12 03:46:56 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get lock spam
+ 
+[ Thu May 12 03:47:20 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get set rules
+ 
+[ Thu May 12 03:49:00 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] has changed group rules to [بی ادبی ممنوع🚫
+بی احترامی ممنوع🚫
+گذاشتن لینک صدرصد ممنوع🚫
+گذاشتن متن و عکس 18 🚫🔞
+مزاحمت در پی وی 🚫
+لطفا رعایت کنید✅]
+ 
+[ Thu May 12 03:49:00 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get setrules بی ادبی ممنوع🚫
+بی احترامی ممنوع🚫
+گذاشتن لینک صدرصد ممنوع🚫
+گذاشتن متن و عکس 18 🚫🔞
+مزاحمت در پی وی 🚫
+لطفا رعایت کنید✅
+ 
+[ Thu May 12 03:49:16 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get relus
+ 
+[ Thu May 12 03:49:21 2016 ]=>  卐Bpick ReD team卐 [176262007] renamed SuperGroup to: 👑xsher chat👑
+ 
+[ Thu May 12 03:49:35 2016 ]=>  ฿ɪßÅKبّّّّاے إټځاڊ βlαςk եɘαм [123897344] requested group rules
+ 
+[ Thu May 12 03:49:35 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get rules
+ 
+[ Thu May 12 03:51:44 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get setrules
+😐کص and شر چت😐
+
+فوش خاستی بده😐
+بکیرم😐
+کص خاستی مخ کنی😐
+بکیرم(😐)
+ولی کص ننت اگه تبلیغ کنیو اسپم بدی😐
+ 
+[ Thu May 12 03:52:50 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get setrules😐کص and شر چت😐
+
+فوش خاستی بده😐
+بکیرم😐
+کص خاستی مخ کنی😐
+بکیرم(😐)
+ولی کص ننت اگه تبلیغ کنیو اسپم بدی😐
+ 
+[ Thu May 12 03:55:02 2016 ]=>  卐Bpick ReD team卐 [176262007] promoted @RedTM_02_Admin_03
+ 
+[ Thu May 12 03:55:02 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get promote @RedTM_02_Admin_03
+ 
+[ Thu May 12 04:00:03 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get promote
+ 
+[ Thu May 12 04:00:03 2016 ]=>  卐Bpick ReD team卐 [176262007] promoted mod: @@Hi_ImDsI_YoU_CaN_SiCK[110486985] by reply
+ 
+[ Thu May 12 04:00:16 2016 ]=>  卐Bpick ReD team卐 [176262007] requested group modlist
+ 
+[ Thu May 12 04:00:16 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get modlist
+ 
+[ Thu May 12 04:02:30 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get setrules
+هرکاری میکنی بکن،بکیرم😐
+
+ولی تبلیغ کنیو اسپم بدی دکمتو میزنم😐😱
+ 
+[ Thu May 12 04:02:45 2016 ]=>  卐Bpick ReD team卐 [176262007] requested group rules
+ 
+[ Thu May 12 04:02:45 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get rules
+ 
+[ Thu May 12 04:03:43 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get setrulesهرکاری میکنی بکن،بکیرم😐
+
+ولی تبلیغ کنیو اسپم بدی دکمتو میزنم😐😱
+ 
+[ Thu May 12 04:04:23 2016 ]=>  卐Bpick ReD team卐 [176262007] has changed group rules to [هرکاری میکنی بکن،بکیرم😐
+
+ولی تبلیغ کنیو اسپم بدی دکمتو میزنم😐😱]
+ 
+[ Thu May 12 04:04:23 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get setrules هرکاری میکنی بکن،بکیرم😐
+
+ولی تبلیغ کنیو اسپم بدی دکمتو میزنم😐😱
+ 
+[ Thu May 12 04:04:35 2016 ]=>  卐Bpick ReD team卐 [176262007] requested group rules
+ 
+[ Thu May 12 04:04:35 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get rules
+ 
+[ Thu May 12 04:05:28 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get sticker اد کنید فعلا
+ 
+[ Thu May 12 07:57:12 2016 ]=>  ฿ɪßÅKبّّّّاے_إټځاڊ_βlαςk_եɘαм [123897344] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:59:12 2016 ]=>  卐Bpick ReD team卐 [176262007] requested group rules
+ 
+[ Thu May 12 07:59:12 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get rules
+ 
+[ Thu May 12 12:22:09 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get ban
+ 
+[ Thu May 12 12:22:25 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get block
+ 
+[ Thu May 12 12:23:12 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get write behraf
+ 
+[ Thu May 12 12:23:30 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get write behrad
+ 
+[ Thu May 12 12:26:45 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get write ریحانه
+ 
+[ Thu May 12 12:27:10 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get write  reyhane
+ 
+[ Thu May 12 12:27:44 2016 ]=>  卐Bpick_ReD_team卐 [176262007] used /get write kose nnt
+ 

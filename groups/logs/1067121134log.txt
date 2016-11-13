@@ -1,0 +1,48 @@
+[ Sun May  8 11:47:18 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Sun May  8 11:47:18 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Sun May  8 11:47:24 2016 ]=>  بابایی [150818362] requested SuperGroup settings 
+ 
+[ Sun May  8 11:47:24 2016 ]=>  بابایی [150818362] used /get settings
+ 
+[ Sun May  8 11:48:13 2016 ]=>  بابایی [150818362] used /get help
+ 
+[ Sun May  8 11:50:38 2016 ]=>  بابایی [150818362] used /get creategroup test
+ 
+[ Sun May  8 11:51:37 2016 ]=>  بابایی [150818362] locked fwd
+ 
+[ Sun May  8 11:51:37 2016 ]=>  بابایی [150818362] used /get lock fwd
+ 
+[ Sun May  8 11:53:29 2016 ]=>  بابایی [150818362] used /get plug
+ 
+[ Sun May  8 11:53:34 2016 ]=>  بابایی [150818362] used /get plugins
+ 
+[ Sun May  8 11:53:48 2016 ]=>  بابایی [150818362] used /get plugin
+ 
+[ Sun May  8 11:53:51 2016 ]=>  (offline)H.A.F.E.Z >AssAssin< [80182995] requested SuperGroup ID
+ 
+[ Sun May  8 11:53:51 2016 ]=>  (offline)H.A.F.E.Z_>AssAssin< [80182995] used /get id
+ 
+[ Sun May  8 11:54:00 2016 ]=>  (offline)H.A.F.E.Z_>AssAssin< [80182995] used /get plugins
+ 
+[ Sun May  8 11:55:04 2016 ]=>  بابایی [150818362] used /get plugin
+ 
+[ Sun May  8 11:55:07 2016 ]=>  بابایی [150818362] used /get plugins
+ 
+[ Sun May  8 11:56:05 2016 ]=>  (offline)H.A.F.E.Z_>AssAssin< [80182995] used /get redact hafez
+ 
+[ Sun May  8 11:57:40 2016 ]=>  (offline)H.A.F.E.Z_>AssAssin< [80182995] used /get gituser hafez16/shield
+ 
+[ Sun May  8 11:58:02 2016 ]=>  (offline)H.A.F.E.Z_>AssAssin< [80182995] used /get help owner
+ 
+[ Sun May  8 11:59:43 2016 ]=>  بابایی [150818362] used /get help owner
+ 
+[ Sun May  8 12:27:41 2016 ]=>  بابایی [150818362] used /get lock rep
+ 
+[ Sun May  8 12:27:46 2016 ]=>  بابایی [150818362] locked reply
+ 
+[ Sun May  8 12:27:46 2016 ]=>  بابایی [150818362] used /get lock reply
+ 
+[ Sun May  8 13:05:35 2016 ]=>  بابایی [150818362] used /get plugins
+ 

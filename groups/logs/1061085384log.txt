@@ -1,0 +1,56 @@
+[ Thu May 12 07:10:54 2016 ]=>  بابایی [150818362] added SuperGroup
+ 
+[ Thu May 12 07:10:54 2016 ]=>  بابایی [150818362] used /get add
+ 
+[ Thu May 12 07:11:19 2016 ]=>  بابایی [150818362] used /get setowner
+ 
+[ Thu May 12 07:11:19 2016 ]=>  بابایی [150818362] set: [195882462] as owner by reply
+ 
+[ Thu May 12 07:11:42 2016 ]=>  بابایی [150818362] promoted @Moien_021
+ 
+[ Thu May 12 07:11:42 2016 ]=>  بابایی [150818362] used /get promote @Moien_021
+ 
+[ Thu May 12 07:16:11 2016 ]=>  DarBeDar [123946449] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:18:10 2016 ]=>  Tanha [124517808] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:18:55 2016 ]=>  جواد [206965501] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:20:58 2016 ]=>  GH_Z_L [213139246] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:21:10 2016 ]=>  ☞♚☜اِم_ۺـ_ℓəყℓί✍ـْـآھ_☞♚☜ [195882462] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:21:27 2016 ]=>  GH_Z_L [213139246] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:21:46 2016 ]=>  _... [124079703] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:21:56 2016 ]=>  💜maryam😘 [109045998] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:22:12 2016 ]=>  ♥ɲҽgάર♥ [100799268] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:22:16 2016 ]=>  💜maryam😘 [109045998] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:22:46 2016 ]=>  Mhrdad [164404243] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:22:58 2016 ]=>  Mhrdad [164404243] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 07:24:01 2016 ]=>  خــــــاص(غــــيڕعــٳڍي)...! @khasscr [139378206] kicked for #spam
+ 
+[ Thu May 12 07:27:50 2016 ]=>  ↯⇜↻علـــرضــــا⇝↺↯ @AlirezaLove2 [193108384] kicked for #spam
+ 
+[ Thu May 12 07:29:14 2016 ]=>  افزایش کانال با هزینه کم فیک ممبر [189523510] locked link posting 
+ 
+[ Thu May 12 07:29:14 2016 ]=>  افزایش_کانال_با_هزینه_کم_فیک_ممبر [189523510] used /get lock links
+ 
+[ Thu May 12 07:48:43 2016 ]=>  افزایش_کانال_با_هزینه_کم_فیک_ممبر [189523510] used /get link
+ 
+[ Thu May 12 07:51:15 2016 ]=>  |BMN|_BotMeNot [75627771] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:53:19 2016 ]=>  √_Vorojak_√ [183523772] used /get !tgservice chat_add_user_link
+ 
+[ Thu May 12 07:56:52 2016 ]=>  √_Vorojak_√ [183523772] used /get !tgservice chat_del_user
+ 
+[ Thu May 12 09:20:17 2016 ]=>  افزایش_کانال_با_هزینه_کم_فیک_ممبر [189523510] used /get ban
+ 
+[ Thu May 12 09:20:29 2016 ]=>  افزایش_کانال_با_هزینه_کم_فیک_ممبر [189523510] used /get ban
+ 

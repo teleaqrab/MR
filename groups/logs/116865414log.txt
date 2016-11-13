@@ -1,0 +1,10 @@
+[ Sun May  1 01:06:38 2016 ]=>  ☄حـــضــــرتــ_بــے_اعــصــــابـمــ☄ [214287059] added group [ 116865414 ]
+ 
+[ Sun May  1 02:00:29 2016 ]=>  ☄حـــضــــرتــ_بــے_اعــصــــابـمــ☄ [214287059] attempted to add group [ 116865414 ]
+ 
+[ Sun May  1 02:00:29 2016 ]=>  ☄حـــضــــرتــبــےاعــصــــابـمــ☄ @hazratbiasabam [214287059] kicked for #spam
+ 
+[ Sun May  1 02:00:34 2016 ]=>  SalMonDor [0] deleted user  user#id214287059
+ 
+[ Sun May  1 02:06:15 2016 ]=>  SalMonDor [0] deleted user  user#id214287059
+ 
